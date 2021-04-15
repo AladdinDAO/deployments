@@ -8,8 +8,8 @@ Deployed Contracts For AladdinDAO
 | Name | Address |
 | ---- |-------- |
 | ALD | [0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D](https://etherscan.io/address/0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D) |
-| wALD | [](https://etherscan.io/address/) |
-| TokenDistributor | [](https://etherscan.io/address/) |
+| wALD | [0x377bacaeed25Df1589E158922b4b2cdAFC54619b](https://etherscan.io/address/0x377bacaeed25Df1589E158922b4b2cdAFC54619b) |
+| TokenDistributor | [0xE95498705c67864c9B9c83EC03444DD890477b52](https://etherscan.io/address/0xE95498705c67864c9B9c83EC03444DD890477b52) |
 | TokenMaster | [](https://etherscan.io/address/) |
 
 #### TokenMaster Pool IDs
@@ -26,15 +26,15 @@ Deployed Contracts For AladdinDAO
 
 | Name | Address |
 | ---- |-------- |
-| RewardDistributor | [](https://etherscan.io/address/) |
-| RewardDistributorPermissioned | [](https://etherscan.io/address/) |
-| ALD Staking Rewards | [](https://etherscan.io/address/) |
-| ALDDAO Staking Rewards | [](https://etherscan.io/address/) |
+| RewardDistributor (ALD Staking Rewards) | [0x0a42258B3fa3b4cB9A5971Da254a83618B5928fA](https://etherscan.io/address/0x0a42258B3fa3b4cB9A5971Da254a83618B5928fA) |
+| RewardDistributor (ALDDAO Staking Rewards) | [0xADDcdf97c6Db085440B6dDC85FF88d12b8b28ac5](https://etherscan.io/address/0xADDcdf97c6Db085440B6dDC85FF88d12b8b28ac5) |
+| ALD Staking Rewards | [0xCCd39AfAb90186d4454C380336dD67EF23f9c351](https://etherscan.io/address/0xCCd39AfAb90186d4454C380336dD67EF23f9c351) |
+| ALDDAO Staking Rewards | [0x78Dbc6888F6CCa11CAc3d4B0027557f25d15ad23](https://etherscan.io/address/0x78Dbc6888F6CCa11CAc3d4B0027557f25d15ad23) |
 
 ### Farms
 | Name | Address |
 | ---- |-------- |
-| Controller | [](https://etherscan.io/address/) |
+| Controller | [0xA0C500eD25a88640F250C55Da7299c3345637F5E](https://etherscan.io/address/0xA0C500eD25a88640F250C55Da7299c3345637F5E) |
 
 #### Vaults & Strategies
 
