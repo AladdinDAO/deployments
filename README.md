@@ -26,7 +26,6 @@ Deployed Contracts For AladdinDAO
 
 | Name | Address |
 | ---- |-------- |
-| RewardDistributor (ALD Staking Rewards) | [0x1320ED083f42DF23395fDe15A7dED5d894ccB625](https://etherscan.io/address/0x1320ED083f42DF23395fDe15A7dED5d894ccB625) |
 | RewardDistributor (ALDDAO Staking Rewards) | [0x99a5dA16e105e7E3D49413E383AFec42f4f335A3](https://etherscan.io/address/0x99a5dA16e105e7E3D49413E383AFec42f4f335A3) |
 | ALD Staking Rewards | [0x341A6B1f52B1eCFD846C3458CAddce78e8D59485](https://etherscan.io/address/0x341A6B1f52B1eCFD846C3458CAddce78e8D59485) |
 | ALDDAO Staking Rewards | [0x78Dbc6888F6CCa11CAc3d4B0027557f25d15ad23](https://etherscan.io/address/0x78Dbc6888F6CCa11CAc3d4B0027557f25d15ad23) |
