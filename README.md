@@ -8,7 +8,6 @@ Deployed Contracts For AladdinDAO
 | Name | Address |
 | ---- |-------- |
 | ALD | [0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D](https://etherscan.io/address/0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D) |
-| wALD | [0x5D2A30cfb5E286bC601AEE1DC5a468e3f146e70D](https://etherscan.io/address/0x5D2A30cfb5E286bC601AEE1DC5a468e3f146e70D) |
 | TokenDistributor | [0x10aF3D70831A7F85192fB70CE6A7205F81294aD7](https://etherscan.io/address/0x10aF3D70831A7F85192fB70CE6A7205F81294aD7) |
 | TokenMaster | [](https://etherscan.io/address/) |
 
