@@ -36,8 +36,8 @@ Deployed Contracts For AladdinDAO
 | ---- |-------- | ---- |-------- |
 | VaultCurveSETH | [0xB17d98c36d2238Ffcb27bF797cA9967B3Cc9Aa07](https://etherscan.io/address/0xB17d98c36d2238Ffcb27bF797cA9967B3Cc9Aa07) | StrategyCurveSETH | [0x0c6f6F52DC7a46b0Ed729231c1350d9D3ABb96F5](https://etherscan.io/address/0x0c6f6F52DC7a46b0Ed729231c1350d9D3ABb96F5) |
 | VaultCurveRenWBTC | [0x4EE014060F4816ad294857d29C22fe62B0e9580B](https://etherscan.io/address/0x4EE014060F4816ad294857d29C22fe62B0e9580B) | StrategyCurveRenWBTC | [0x2602Ddd659Dd415473e5986aa5634d9623f9ef79](https://etherscan.io/address/0x2602Ddd659Dd415473e5986aa5634d9623f9ef79) |
-| VaultSushiETHWBTC | [0x1C7ed66abE1BA029c8EFceecfBfc4056B8C4bbfc](https://etherscan.io/address/0x1C7ed66abE1BA029c8EFceecfBfc4056B8C4bbfc) | StrategySushiETHWBTC | [0xb2eC70342cd7ac97463372E20CBCed46f611164C](https://etherscan.io/address/0xb2eC70342cd7ac97463372E20CBCed46f611164C) |
 | VaultCurve3Pool | [0x5C8dC3a18761e4F22F7B8D41228970477168d9e2](https://etherscan.io/address/0x5C8dC3a18761e4F22F7B8D41228970477168d9e2) | StrategyCurve3Pool | [0xE9bb64F916f2f4b5f946688fF28D222915a19e12](https://etherscan.io/address/0xE9bb64F916f2f4b5f946688fF28D222915a19e12) |
+| VaultSushiETHWBTC | [0x1C7ed66abE1BA029c8EFceecfBfc4056B8C4bbfc](https://etherscan.io/address/0x1C7ed66abE1BA029c8EFceecfBfc4056B8C4bbfc) | StrategySushiETHWBTC | [0xb9ee24714f35b5abcc769d9acd5483478fbd5955](https://etherscan.io/address/0xb9ee24714f35b5abcc769d9acd5483478fbd5955) |
 
 
 
