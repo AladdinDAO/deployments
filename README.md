@@ -32,7 +32,7 @@ Deployed Contracts For AladdinDAO
 | Controller | [0xA0C500eD25a88640F250C55Da7299c3345637F5E](https://etherscan.io/address/0xA0C500eD25a88640F250C55Da7299c3345637F5E) |
 
 #### Vaults & Strategies
-| Vault Name | Strategy Address | Strategy Name | Strategy Address
+| Vault Name | Vault Address | Strategy Name | Strategy Address
 | ---- |-------- | ---- |-------- |
 | VaultCurveSETH | [0xB17d98c36d2238Ffcb27bF797cA9967B3Cc9Aa07](https://etherscan.io/address/0xB17d98c36d2238Ffcb27bF797cA9967B3Cc9Aa07) | StrategyCurveSETH | [0x0c6f6F52DC7a46b0Ed729231c1350d9D3ABb96F5](https://etherscan.io/address/0x0c6f6F52DC7a46b0Ed729231c1350d9D3ABb96F5) |
 | VaultCurveRenWBTC | [0x4EE014060F4816ad294857d29C22fe62B0e9580B](https://etherscan.io/address/0x4EE014060F4816ad294857d29C22fe62B0e9580B) | StrategyCurveRenWBTC | [0x2602Ddd659Dd415473e5986aa5634d9623f9ef79](https://etherscan.io/address/0x2602Ddd659Dd415473e5986aa5634d9623f9ef79) |
