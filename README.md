@@ -8,8 +8,11 @@ Deployed Contracts For AladdinDAO
 | Name | Address |
 | ---- |-------- |
 | ALD | [0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D](https://etherscan.io/address/0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D) |
+| ALD-USDC UNI-V2-LP | [0xaAa2bB0212Ec7190dC7142cD730173b0A788eC31](https://etherscan.io/address/0xaAa2bB0212Ec7190dC7142cD730173b0A788eC31) |
+| ALD-ETH UNI-V2-LP | [0xED6c2F053AF48Cba6cBC0958124671376f01A903](https://etherscan.io/address/0xED6c2F053AF48Cba6cBC0958124671376f01A903) |
 | TokenDistributor | [0x10aF3D70831A7F85192fB70CE6A7205F81294aD7](https://etherscan.io/address/0x10aF3D70831A7F85192fB70CE6A7205F81294aD7) |
 | TokenMaster | [0x2aB3351B01b5B189D11711b4e6a6e2dd4CA29Dba](https://etherscan.io/address/0x2aB3351B01b5B189D11711b4e6a6e2dd4CA29Dba) |
+
 
 ### DAO
 
