@@ -31,7 +31,7 @@ Deployed Contracts For AladdinDAO
 
 | Name | Address |
 | ---- |-------- |
-| RewardDistributor (ALDDAO Staking Rewards) | [0x99a5dA16e105e7E3D49413E383AFec42f4f335A3](https://etherscan.io/address/0x99a5dA16e105e7E3D49413E383AFec42f4f335A3) 
+| RewardDistributor (ALDDAO Staking Rewards) | [0x0427a82Cc54509e16dCAA12802762331bd354707](https://etherscan.io/address/0x0427a82Cc54509e16dCAA12802762331bd354707) 
 | ALDDAO Staking Rewards | [0x78Dbc6888F6CCa11CAc3d4B0027557f25d15ad23](https://etherscan.io/address/0x78Dbc6888F6CCa11CAc3d4B0027557f25d15ad23) |
 
 ### Farms
