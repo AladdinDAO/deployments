@@ -4,9 +4,9 @@ Deployed Contracts For AladdinDAO
 ## Ethereum Mainnet
 
 ### Governance Multisigs
-`0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F`
+Contract Manager: [0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F](https://etherscan.io/address/0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F)
 
-`0x0eC5d318F770022D131Eb0161c640fCcA6d1C9D7`
+Fund Manager: [0x0eC5d318F770022D131Eb0161c640fCcA6d1C9D7](https://etherscan.io/address/0x0eC5d318F770022D131Eb0161c640fCcA6d1C9D7)
 
 ### Token
 
