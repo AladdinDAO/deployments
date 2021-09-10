@@ -19,16 +19,6 @@ Community Multisig: [0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F](https://ethersc
 | vfat | [0xef0ca09fbf9a5f61e657fb208b46b8685c1d4766](https://etherscan.io/address/0xef0ca09fbf9a5f61e657fb208b46b8685c1d4766) |
 | Martin Krung | [0x8EcAB7B8ed8215cA52500cbf1548B9239173ef82](https://etherscan.io/address/0x8EcAB7B8ed8215cA52500cbf1548B9239173ef82) |
 
-
-Team Multisig: [0x0eC5d318F770022D131Eb0161c640fCcA6d1C9D7](https://etherscan.io/address/0x0eC5d318F770022D131Eb0161c640fCcA6d1C9D7)
-
-| Signer | Address |
-| ---- |-------- |
-| Guo Yu | [0x74390470F4001Ca85D93bD546A4Ab1724359654B](https://etherscan.io/address/0x74390470F4001Ca85D93bD546A4Ab1724359654B) |
-| Jamie Cheng | [0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03](https://etherscan.io/address/0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03) |
-| Sharlyn Wu | [0xF483De0f306952FA56ef56c1dbBDd2A70737bDd5](https://etherscan.io/address/0xF483De0f306952FA56ef56c1dbBDd2A70737bDd5) |
-| Gao Chao | [0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99](https://etherscan.io/address/0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99) |
-
 ### Token
 
 | Name | Address |
