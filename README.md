@@ -36,6 +36,7 @@ Community Multisig: [0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F](https://ethersc
 | ---- |-------- |
 | ALDDAO | [0xB5495A8D85EE18cfD0d2816993658D88aF08bEF4](https://etherscan.io/address/0xB5495A8D85EE18cfD0d2816993658D88aF08bEF4) |
 | ALDVOTE | [0x6e2b4801040d5fab7D0d7700bE5903322BCf61Ce](https://etherscan.io/address/0x6e2b4801040d5fab7D0d7700bE5903322BCf61Ce) |
+| ALDPlus | [0x774E4Ee61dfcDBA5A574c113ABb03A0a6634Fbe4](https://etherscan.io/address/0x774E4Ee61dfcDBA5A574c113ABb03A0a6634Fbe4) |
 | Treasury | [0x47e9517C2c179349c6C8F4a347acbeDFCA5E99Bc](https://etherscan.io/address/0x47e9517C2c179349c6C8F4a347acbeDFCA5E99Bc) |
 
 ### Reward
