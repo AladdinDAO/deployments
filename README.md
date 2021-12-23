@@ -10,7 +10,7 @@ Community Multisig: [0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F](https://ethersc
 | Signer | Address |
 | ---- |-------- |
 | Guo Yu | [0x74390470F4001Ca85D93bD546A4Ab1724359654B](https://etherscan.io/address/0x74390470F4001Ca85D93bD546A4Ab1724359654B) |
-| Yuming0x | [0xfA1440afb3a2B45FF5C1Fb9b420063f342f935dD](https://etherscan.io/address/0xfA1440afb3a2B45FF5C1Fb9b420063f342f935dD) |
+| chiaki644 | [0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb](https://etherscan.io/address/0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb) |
 | Sharlyn Wu | [0xF483De0f306952FA56ef56c1dbBDd2A70737bDd5](https://etherscan.io/address/0xF483De0f306952FA56ef56c1dbBDd2A70737bDd5) |
 | Jamie Cheng | [0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03](https://etherscan.io/address/0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03) |
 | Gao Chao | [0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99](https://etherscan.io/address/0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99) |
