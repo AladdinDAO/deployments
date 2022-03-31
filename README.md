@@ -33,8 +33,9 @@ Community Multisig: [0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F](https://ethersc
 
 | Name | Address | Notes |
 | -- | -- | -- |
-| AladdinCRVZap | 0x5EB30ce188B0abb89A942cED6Cbe114F4d852082 | for AladdinCRV only |
-| AladdinConvexVaultZap | 0x71Fb0cc62139766383C0F09F1E31375023592841 | currently used for AladdinConvexVault |
+| AladdinCRVZap | 0x5EB30ce188B0abb89A942cED6Cbe114F4d852082 | currently used for AladdinCRV |
+| AladdinConvexVaultZap | 0x71Fb0cc62139766383C0F09F1E31375023592841 | deprecated |
+| AladdinZap | 0x1104b4DF568fa7Af90B1Bed1D78A2F71e748dc8a | currently used for AladdinConvexVault |
 
 ### V2 Contracts
 
