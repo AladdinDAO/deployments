@@ -5,7 +5,10 @@ Deployed Contracts For AladdinDAO
 
 ### Governance Multisigs
 
-Community Multisig: [0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F](https://etherscan.io/address/0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F)
+Community Multisig: 
+
++ For Management: [0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F](https://etherscan.io/address/0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F)
++ CLever Treasury: [0xFC08757c505eA28709dF66E54870fB6dE09f0C5E](https://etherscan.io/address/0xFC08757c505eA28709dF66E54870fB6dE09f0C5E)
 
 | Signer | Address |
 | ---- |-------- |
