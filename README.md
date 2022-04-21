@@ -29,6 +29,15 @@ Community Multisig: [0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F](https://ethersc
 | AladdinCRV | 0x2b95A1Dcc3D405535f9ed33c219ab38E8d7e0884 |
 | AladdinConvexVault | 0xc8fF37F7d057dF1BB9Ad681b53Fa4726f268E0e8 |
 
+#### CLever
+
+| Name | Address |
+| -- | --|
+| CLever Treasury | 0xFC08757c505eA28709dF66E54870fB6dE09f0C5E |
+| CVXLocker | 0x96C68D861aDa016Ed98c30C810879F9df7c64154 |
+| Furnace | 0xCe4dCc5028588377E279255c0335Effe2d7aB72a |
+| clevCVX | 0xf05e58fCeA29ab4dA01A495140B349F8410Ba904 |
+
 #### Zap Contracts
 
 | Name | Address | Notes |
