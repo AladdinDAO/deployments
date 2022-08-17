@@ -44,7 +44,6 @@ Community Multisig:
 | GaugeRewardDistributor | 0xF57b53df7326e2c6bCFA81b4A128A92E69Cb87B0 |
 | AladdinFXS | 0xDAF03D70Fe637b91bA6E521A32E1Fb39256d3EC9 |
 | CompounderGateway | 0x883Fd355deBF417F82Aa9a3E2936971487F7Df1F |
-| AladdinFXSConvexVault | 0xD6E3BB7b1D6Fa75A71d48CFB10096d59ABbf99E1 |
 
 #### CLever
 
