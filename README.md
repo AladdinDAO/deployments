@@ -14,12 +14,12 @@ Community Multisig:
 | Signer | Address |
 | ---- |-------- |
 | Guo Yu | [0x74390470F4001Ca85D93bD546A4Ab1724359654B](https://etherscan.io/address/0x74390470F4001Ca85D93bD546A4Ab1724359654B) |
+| 0xLlama | [0x0000000000e189dD664b9aB08a33C4839953852c](https://etherscan.io/address/0x0000000000e189dD664b9aB08a33C4839953852c) |
 | chiaki644 | [0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb](https://etherscan.io/address/0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb) |
 | Sharlyn Wu | [0xF483De0f306952FA56ef56c1dbBDd2A70737bDd5](https://etherscan.io/address/0xF483De0f306952FA56ef56c1dbBDd2A70737bDd5) |
 | Jamie Cheng | [0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03](https://etherscan.io/address/0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03) |
 | Gao Chao | [0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99](https://etherscan.io/address/0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99) |
 | Alex Pack | [0x4C2B418457880d9A2bC04079840e671E70DF7cD1](https://etherscan.io/address/0x4C2B418457880d9A2bC04079840e671E70DF7cD1) |
-| Ashwin Ramachandran | [0xd046135Ba00B0315eD4c3135206C87a7F4EB57D9](https://etherscan.io/address/0xd046135Ba00B0315eD4c3135206C87a7F4EB57D9) |
 | vfat | [0xef0ca09fbf9a5f61e657fb208b46b8685c1d4766](https://etherscan.io/address/0xef0ca09fbf9a5f61e657fb208b46b8685c1d4766) |
 | Martin Krung | [0x8EcAB7B8ed8215cA52500cbf1548B9239173ef82](https://etherscan.io/address/0x8EcAB7B8ed8215cA52500cbf1548B9239173ef82) |
 
