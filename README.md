@@ -14,7 +14,7 @@ Community Multisig:
 | Signer | Address |
 | ---- |-------- |
 | Alex Pack | [0x4C2B418457880d9A2bC04079840e671E70DF7cD1](https://etherscan.io/address/0x4C2B418457880d9A2bC04079840e671E70DF7cD1) |
-| 0xLlama | [0x0000000000e189dD664b9aB08a33C4839953852c](https://etherscan.io/address/0x0000000000e189dD664b9aB08a33C4839953852c) |
+| 0xLlama | [0x7904Ad7c992CDAb500dAa0f3366301b1f5365B62](https://etherscan.io/address/0x7904Ad7c992CDAb500dAa0f3366301b1f5365B62) |
 | chiaki644 | [0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb](https://etherscan.io/address/0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb) |
 | Gordon | [0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99](https://etherscan.io/address/0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99) |
 | Guo Yu | [0x74390470F4001Ca85D93bD546A4Ab1724359654B](https://etherscan.io/address/0x74390470F4001Ca85D93bD546A4Ab1724359654B) |
