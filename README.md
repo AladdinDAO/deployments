@@ -44,6 +44,7 @@ Community Multisig:
 | GaugeRewardDistributor | 0xF57b53df7326e2c6bCFA81b4A128A92E69Cb87B0 |
 | AladdinFXS | 0xDAF03D70Fe637b91bA6E521A32E1Fb39256d3EC9 |
 | CompounderGateway | 0x883Fd355deBF417F82Aa9a3E2936971487F7Df1F |
+| CTR Vesting | 0x8341889905bdef85b87cb7644a93f7a482f28742 |
 
 #### CLever
 
