@@ -49,7 +49,13 @@ Community Multisig:
 | AladdinFXS            | 0xDAF03D70Fe637b91bA6E521A32E1Fb39256d3EC9 |       |
 | AladdinFXSConvexVault | 0xD6E3BB7b1D6Fa75A71d48CFB10096d59ABbf99E1 |       |
 
+#### Concentrator for ETH
+
+TBD
+
 #### Concentrator for sdCRV
+
+TBD
 
 #### Revenue Sharing
 
@@ -91,9 +97,30 @@ Community Multisig:
 
 TBD
 
-#### CLever for FRAX
+#### CLever for USD
 
-TBD
+| Name               |                  Address                   |
+| ------------------ | :----------------------------------------: |
+| clevUSD            | 0x3C20Ac688410bE8F391bE1fb00AFc5C212972F86 |
+| FRAX Furnace       | 0x7f160EFC2436F1aF4E9E8a57d0a5beB8345761a9 |
+| FRAX/USDC CLever   | 0xEB0ea9D24235aB37196111eeDd656D56Ce4F53b1 |
+| LUSD/FRAXBP CLever | 0xb2Fcee71b25B62baFE442c58AF58c42143673cC1 |
+| TUSD/FRAXBP CLever | 0xad4caC207A0BFEd10dF8A4FC6A28D377caC730E0 |
+
+##### Strategies
+
+| Name                          |                  Address                   |
+| ----------------------------- | :----------------------------------------: |
+| FRAX/USDC Concentrator 100%   | 0xAdC6A89d6Df7374629eA3cFd0737843709d29F66 |
+| LUSD/FRAXBP Concentrator 100% | 0xC65D58A33D9917Df3e1a4033eD73506D9b6aCE6c |
+| TUSD/FRAXBP Concentrator 100% | 0xa7625Dd9F2D8a95a0D1Ac7E8671547197e9fcAf0 |
+
+#### Curve Pool Checker
+
+| Name              | Address |
+| ----------------- | :-----: |
+| Base Pool Checker |   TBD   |
+| Meta Pool Checker |   TBD   |
 
 #### Revenue Sharing
 
