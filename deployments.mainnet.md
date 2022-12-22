@@ -51,7 +51,11 @@ Community Multisig:
 
 #### Concentrator for ETH
 
-TBD
+| Name                  |                  Address                   | Notes |
+| --------------------- | :----------------------------------------: | ----- |
+| AladdinETH            | 0xb15Ad6113264094Fd9BF2238729410A07EBE5ABa |  afrxETH/ConvexFrax   |
+| AladdinETHVault       | 0x50B47c4A642231dbe0B411a0B2FBC1EBD129346D |  afrxETH/ConvexFrax   |
+| ConvexFraxStrategy    | 0xc9cfD6205914AB1E209FfE70326d8dd15fc58187 |  afrxETH/ConvexFrax   |
 
 #### Concentrator for sdCRV
 
