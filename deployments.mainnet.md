@@ -256,7 +256,7 @@ TBD
 
 | Name                     |                  LP Token                  |                   Gauge                    |
 | ------------------------ | :----------------------------------------: | :----------------------------------------: |
-| ~~Curve CLEV/ETH~~       | 0x6C280dB098dB673d30d5B34eC04B6387185D3620 | 0x86e917ad6Cb44F9E6C8D9fA012acF0d0CfcF114f |
+| Curve CLEV/ETH           | 0x6C280dB098dB673d30d5B34eC04B6387185D3620 | 0x86e917ad6Cb44F9E6C8D9fA012acF0d0CfcF114f |
 | ~~Balancer clevCVX/CVX~~ | 0x69671c808c8f1c1490a4c9e0145884dfb5631378 | 0x9b02548De409D7aAeE228BfA3ff2bCa70e7a2fe8 |
 | ~~Curve clevCVX/CVX~~    | 0xF9078Fb962A7D13F55d40d49C8AA6472aBD1A5a6 | 0xF758BE28E93672d1a8482BE15EAf21aa5450F979 |
 | abcCVX                   | 0xDEC800C2b17c9673570FDF54450dc1bd79c8E359 | 0xc5022291cA8281745d173bB855DCd34dda67F2f0 |
