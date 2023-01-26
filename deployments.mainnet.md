@@ -36,11 +36,12 @@ Community Multisig:
 
 #### Concentrator for cvxCRV
 
-| Name                 |                  Address                   | Notes      |
-| -------------------- | :----------------------------------------: | ---------- |
-| AladdinCRV           | 0x2b95A1Dcc3D405535f9ed33c219ab38E8d7e0884 |            |
-| AladdinConvexVault   | 0xc8fF37F7d057dF1BB9Ad681b53Fa4726f268E0e8 | deprecated |
-| ConcentratorIFOVault | 0x3Cf54F3A1969be9916DAD548f3C084331C4450b5 |            |
+| Name                         |                  Address                   | Notes      |
+| ---------------------------- | :----------------------------------------: | ---------- |
+| AladdinCRV                   | 0x2b95A1Dcc3D405535f9ed33c219ab38E8d7e0884 |            |
+| CvxCrvStakingWrapperStrategy | 0x94cC627Db80253056B2130aAC39abB252A75F345 |            |
+| AladdinConvexVault           | 0xc8fF37F7d057dF1BB9Ad681b53Fa4726f268E0e8 | deprecated |
+| ConcentratorIFOVault         | 0x3Cf54F3A1969be9916DAD548f3C084331C4450b5 |            |
 
 ##### Pool in AladdinConvexVault
 
@@ -77,17 +78,17 @@ Community Multisig:
 |   7 | DAI+USDC+USDT      | 0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490 |            |
 |   8 | iDAI+iUSDC+iUSDT   | 0x5282a4eF67D9C33135340fB3289cc1711c13638C | deprecated |
 |   9 | MIM+3CRV           | 0x5a6A4D54456819380173272A5E8E9B9904BdF41B |            |
-|  10 | renBTC+WBTC        | 0x49849C98ae39Fff122806C06791Fa73784FB3675 |            |
+|  10 | renBTC+WBTC        | 0x49849C98ae39Fff122806C06791Fa73784FB3675 | deprecated |
 |  11 | PUSd+3CRV          | 0x8EE017541375F6Bcd802ba119bdDC94dad6911A1 |            |
 |  12 | DAI+USDC+USDT+sUSD | 0xC25a3A3b969415c80451098fa907EC722572917F |            |
-|  13 | renBTC+WBTC+sBTC   | 0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3 |            |
+|  13 | renBTC+WBTC+sBTC   | 0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3 | deprecated |
 |  14 | ETH+sETH           | 0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c |            |
 |  15 | FRAX+USDC          | 0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC |            |
 |  16 | FRAX+FPI           | 0x4704aB1fb693ce163F7c9D3A31b3FF4eaF797714 |            |
 |  17 | alUSD+3CRV         | 0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c |            |
 |  18 | cDAI+cUSDC         | 0x845838DF265Dcd2c412A1Dc9e959c7d08537f8a2 | deprecated |
 |  19 | dola+3CRV          | 0xAA5A67c256e27A5d80712c51971408db3370927D | deprecated |
-|  20 | BUSD+3CRV          | 0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a |            |
+|  20 | BUSD+3CRV          | 0x4807862AA8b2bF68830e4C8dc86D0e9A998e085a | deprecated |
 |  21 | ETH+alETH          | 0xC4C319E2D4d66CcA4464C0c2B32c9Bd23ebe784e |            |
 |  22 | agEUR+EURT+EURS    | 0xb9446c4Ef5EBE66268dA6700D26f96273DE3d571 |            |
 |  23 | LUSD+3CRV          | 0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA |            |
@@ -104,6 +105,8 @@ Community Multisig:
 |  34 | bLUSD+LUSD3CRV-f   | 0x5ca0313d44551e32e0d7a298ec024321c4bc59b4 |            |
 |  35 | WBTC+sBTC          | 0x051d7e5609917Bd9b73f04BAc0DED8Dd46a74301 |            |
 |  36 | multiBTC+crvWSBTC  | 0x2863a328A0B7fC6040f11614FA0728587DB8e353 |            |
+|  37 | clevCVX+CVX        | 0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6 |            |
+|  38 | clevUSD+FRAXBP     | 0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c |            |
 
 #### Concentrator for Curve-FXS/cvxFXS-LP
 
@@ -114,18 +117,19 @@ Community Multisig:
 
 ##### Pool in AladdinFXSConvexVault
 
-| PID | Name         |                 Underlying                 | Notes      |
-| --: | ------------ | :----------------------------------------: | ---------- |
-|   0 | FRAX+3CRV    | 0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B |            |
-|   1 | FXS+cvxFXS   | 0xF3A43307DcAFa93275993862Aae628fCB50dC768 | deprecated |
-|   2 | FRAX+USDC    | 0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC |            |
-|   3 | sUSD+FRAXBP  | 0xe3c190c57b5959Ae62EfE3B6797058B76bA2f5eF |            |
-|   4 | TUSD+3CRV    | 0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1 |            |
-|   5 | BUSD+FRAXBP  | 0x8fdb0bB9365a46B145Db80D0B1C5C5e979C84190 |            |
-|   6 | alUSD+FRAXBP | 0xB30dA2376F63De30b42dC055C93fa474F31330A5 |            |
-|   7 | Silo+FRAX    | 0x2302aaBe69e6E7A1b0Aa23aAC68fcCB8A4D2B460 |            |
-|   8 | TUSD+FRAXBP  | 0x33baeDa08b8afACc4d3d07cf31d49FC1F1f3E893 |            |
-|   9 | ETH+frxETH   | 0xf43211935C781D5ca1a41d2041F397B8A7366C7A |            |
+| PID | Name           |                 Underlying                 | Notes      |
+| --: | -------------- | :----------------------------------------: | ---------- |
+|   0 | FRAX+3CRV      | 0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B |            |
+|   1 | FXS+cvxFXS     | 0xF3A43307DcAFa93275993862Aae628fCB50dC768 | deprecated |
+|   2 | FRAX+USDC      | 0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC |            |
+|   3 | sUSD+FRAXBP    | 0xe3c190c57b5959Ae62EfE3B6797058B76bA2f5eF |            |
+|   4 | TUSD+3CRV      | 0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1 |            |
+|   5 | BUSD+FRAXBP    | 0x8fdb0bB9365a46B145Db80D0B1C5C5e979C84190 |            |
+|   6 | alUSD+FRAXBP   | 0xB30dA2376F63De30b42dC055C93fa474F31330A5 |            |
+|   7 | Silo+FRAX      | 0x2302aaBe69e6E7A1b0Aa23aAC68fcCB8A4D2B460 |            |
+|   8 | TUSD+FRAXBP    | 0x33baeDa08b8afACc4d3d07cf31d49FC1F1f3E893 |            |
+|   9 | ETH+frxETH     | 0xf43211935C781D5ca1a41d2041F397B8A7366C7A |            |
+|  10 | clevUSD+FRAXBP | 0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c |            |
 
 #### Concentrator for Curve-ETH/frxETH-LP
 
@@ -163,6 +167,14 @@ TBD
 #### Concentrator for sdCRV
 
 TBD
+
+#### Concentrator for CLever CVX
+
+| Name                   |                  Address                   | Notes |
+| ---------------------- | :----------------------------------------: | ----- |
+| Curve clevCVX/CVX LP   | 0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6 |       |
+| abcCVX                 | 0xDEC800C2b17c9673570FDF54450dc1bd79c8E359 |       |
+| AMOConvexCurveStrategy | 0x29E56d5E68b4819FC4a997b91fc9F4f8818ef1B4 |       |
 
 #### Revenue Sharing
 
@@ -207,21 +219,23 @@ TBD
 
 #### CLever for USD
 
-| Name               |                  Address                   |
-| ------------------ | :----------------------------------------: |
-| clevUSD            | 0x3C20Ac688410bE8F391bE1fb00AFc5C212972F86 |
-| FRAX Furnace       | 0x7f160EFC2436F1aF4E9E8a57d0a5beB8345761a9 |
-| FRAX/USDC CLever   | 0xEB0ea9D24235aB37196111eeDd656D56Ce4F53b1 |
-| LUSD/FRAXBP CLever | 0xb2Fcee71b25B62baFE442c58AF58c42143673cC1 |
-| TUSD/FRAXBP CLever | 0xad4caC207A0BFEd10dF8A4FC6A28D377caC730E0 |
+| Name                  |                  Address                   |
+| --------------------- | :----------------------------------------: |
+| clevUSD               | 0x3C20Ac688410bE8F391bE1fb00AFc5C212972F86 |
+| FRAX Furnace          | 0x7f160EFC2436F1aF4E9E8a57d0a5beB8345761a9 |
+| FRAX/USDC CLever      | 0xEB0ea9D24235aB37196111eeDd656D56Ce4F53b1 |
+| LUSD/FRAXBP CLever    | 0xb2Fcee71b25B62baFE442c58AF58c42143673cC1 |
+| TUSD/FRAXBP CLever    | 0xad4caC207A0BFEd10dF8A4FC6A28D377caC730E0 |
+| clevUSD/FRAXBP CLever | 0x2C37F1DcEd208530A05B061A183d8937F686157e |
 
 ##### Strategies
 
-| Name                          |                  Address                   |
-| ----------------------------- | :----------------------------------------: |
-| FRAX/USDC Concentrator 100%   | 0xAdC6A89d6Df7374629eA3cFd0737843709d29F66 |
-| LUSD/FRAXBP Concentrator 100% | 0xC65D58A33D9917Df3e1a4033eD73506D9b6aCE6c |
-| TUSD/FRAXBP Concentrator 100% | 0xa7625Dd9F2D8a95a0D1Ac7E8671547197e9fcAf0 |
+| Name                             |                  Address                   |
+| -------------------------------- | :----------------------------------------: |
+| FRAX/USDC Concentrator 100%      | 0xAdC6A89d6Df7374629eA3cFd0737843709d29F66 |
+| LUSD/FRAXBP Concentrator 100%    | 0xC65D58A33D9917Df3e1a4033eD73506D9b6aCE6c |
+| TUSD/FRAXBP Concentrator 100%    | 0xa7625Dd9F2D8a95a0D1Ac7E8671547197e9fcAf0 |
+| clevUSD/FRAXBP Concentrator 100% | 0x5432526e75d45369970b8616F54b25c831d1e2b2 |
 
 #### Curve Pool Checker
 
@@ -240,11 +254,12 @@ TBD
 
 #### Liquidity Gauges
 
-| Name                 |                  LP Token                  |                   Gauge                    |
-| -------------------- | :----------------------------------------: | :----------------------------------------: |
-| Curve CLEV/ETH       | 0x6C280dB098dB673d30d5B34eC04B6387185D3620 | 0x86e917ad6Cb44F9E6C8D9fA012acF0d0CfcF114f |
-| Balancer clevCVX/CVX | 0x69671c808c8f1c1490a4c9e0145884dfb5631378 | 0x9b02548De409D7aAeE228BfA3ff2bCa70e7a2fe8 |
-| Curve clevCVX/CVX    | 0xF9078Fb962A7D13F55d40d49C8AA6472aBD1A5a6 | 0xF758BE28E93672d1a8482BE15EAf21aa5450F979 |
+| Name                     |                  LP Token                  |                   Gauge                    |
+| ------------------------ | :----------------------------------------: | :----------------------------------------: |
+| ~~Curve CLEV/ETH~~       | 0x6C280dB098dB673d30d5B34eC04B6387185D3620 | 0x86e917ad6Cb44F9E6C8D9fA012acF0d0CfcF114f |
+| ~~Balancer clevCVX/CVX~~ | 0x69671c808c8f1c1490a4c9e0145884dfb5631378 | 0x9b02548De409D7aAeE228BfA3ff2bCa70e7a2fe8 |
+| ~~Curve clevCVX/CVX~~    | 0xF9078Fb962A7D13F55d40d49C8AA6472aBD1A5a6 | 0xF758BE28E93672d1a8482BE15EAf21aa5450F979 |
+| abcCVX                   | 0xDEC800C2b17c9673570FDF54450dc1bd79c8E359 | 0xc5022291cA8281745d173bB855DCd34dda67F2f0 |
 
 #### Fundraising Gauge
 
@@ -263,11 +278,11 @@ TBD
 
 ### Zap Contracts
 
-| Name                  |                  Address                   | Notes                                 |
-| --------------------- | :----------------------------------------: | ------------------------------------- |
-| AladdinCRVZap         | 0x5EB30ce188B0abb89A942cED6Cbe114F4d852082 | currently used for AladdinCRV         |
-| AladdinConvexVaultZap | 0x71Fb0cc62139766383C0F09F1E31375023592841 | deprecated                            |
-| AladdinZap            | 0x1104b4DF568fa7Af90B1Bed1D78A2F71e748dc8a | currently used for AladdinConvexVault |
+| Name                  |                  Address                   | Notes      |
+| --------------------- | :----------------------------------------: | ---------- |
+| AladdinCRVZap         | 0x5EB30ce188B0abb89A942cED6Cbe114F4d852082 | deprecated |
+| AladdinConvexVaultZap | 0x71Fb0cc62139766383C0F09F1E31375023592841 | deprecated |
+| AladdinZap            | 0x1104b4DF568fa7Af90B1Bed1D78A2F71e748dc8a |            |
 
 ## V2 Contracts
 
