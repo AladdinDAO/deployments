@@ -107,6 +107,7 @@ Community Multisig:
 |  36 | multiBTC+crvWSBTC  | 0x2863a328A0B7fC6040f11614FA0728587DB8e353 |            |
 |  37 | clevCVX+CVX        | 0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6 |            |
 |  38 | clevUSD+FRAXBP     | 0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c |            |
+|  39 | ETH+CLEV           | 0x6c280db098db673d30d5b34ec04b6387185d3620 |            |
 
 #### Concentrator for Curve-FXS/cvxFXS-LP
 
@@ -130,6 +131,7 @@ Community Multisig:
 |   8 | TUSD+FRAXBP    | 0x33baeDa08b8afACc4d3d07cf31d49FC1F1f3E893 |            |
 |   9 | ETH+frxETH     | 0xf43211935C781D5ca1a41d2041F397B8A7366C7A |            |
 |  10 | clevUSD+FRAXBP | 0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c |            |
+|  11 | ETH+CLEV       | 0x6c280db098db673d30d5b34ec04b6387185d3620 |            |
 
 #### Concentrator for Curve-ETH/frxETH-LP
 
@@ -159,6 +161,7 @@ Community Multisig:
 |  12 | bLUSD+LUSD3CRV-f  | 0x5ca0313d44551e32e0d7a298ec024321c4bc59b4 | 0xf23C0b5770B6fb117De879b93eDA35D71ff28506 |       |
 |  13 | WBTC+sBTC         | 0x051d7e5609917Bd9b73f04BAc0DED8Dd46a74301 | 0x3BBa4DE25AE1Cba2f0571f447880D039aF0D4D26 |       |
 |  14 | multiBTC+crvWSBTC | 0x2863a328A0B7fC6040f11614FA0728587DB8e353 | 0x6ACc16567D59Ad11eCda0d04653afc3b189d11dC |       |
+|  15 | ETH+CLEV          | 0x6c280db098db673d30d5b34ec04b6387185d3620 | 0x0D9acC496f6A946B7811237A96611A4A6f07815e |       |
 
 #### Concentrator for Curve-ETH/stETH-LP
 
@@ -166,7 +169,12 @@ TBD
 
 #### Concentrator for sdCRV
 
-TBD
+| Name                |                  Address                   | Notes |
+| ------------------- | :----------------------------------------: | ----- |
+| StakeDAOLockerProxy | 0x1c0D72a330F2768dAF718DEf8A19BAb019EEAd09 |       |
+| VeSDTDelegation     | 0x6037Bb1BBa598bf88D816cAD90A28cC00fE3ff64 |       |
+| StakeDAOCRVVault    | 0x2b3e72f568F96d7209E20C8B8f4F2A363ee1E3F6 |       |
+| AladdinSdCRV        | 0x43E54C2E7b3e294De3A155785F52AB49d87B9922 |       |
 
 #### Concentrator for CLever CVX
 
@@ -201,6 +209,8 @@ TBD
 | CLEV Vesting           | 0x84C82d43f1Cc64730849f3E389fE3f6d776F7A4E |
 | veCLEV                 | 0x94be07d45d57c7973A535C1c517Bd79E602E051e |
 | PlatformFeeDistributor | 0xD6eFa5B63531e9ae61e225b02CbACD59092a35bE |
+| VeFeeGateway           | 0x8Fc7906Fc6047679DaD53c0c3B40E135486421e9 |
+| RewardClaimHelper      | 0xAf59d144357DCc8a852AD601f27BF6310b657a7f |
 | SmartWalletWhitelist   | 0xFC7ea943F62aee5D40c0346DC45C464F74C35267 |
 | GaugeController        | 0xB992E8E1943f40f89301aB89A5C254F567aF5b63 |
 | CLEV Minter            | 0x4aa2afd5616bEEC2321a9EfD7349400d4F18566A |
@@ -248,9 +258,9 @@ TBD
 
 | Reward Token |               FeeDistributor               |
 | ------------ | :----------------------------------------: |
-| CVX          | 0xEA99147773782cc88a03d76a7c9E30152D97Fc0b |
+| CVX          | 0x927ddC5A776F2bc225B9fb9ec16bDCEE09eB6C0D |
+| FRAX         | 0xa47A8a0fA6Bd6a596D15E83C4a91c97305a75c5B |
 | CRV          |                    TBD                     |
-| FRAX         |                    TBD                     |
 
 #### Liquidity Gauges
 
