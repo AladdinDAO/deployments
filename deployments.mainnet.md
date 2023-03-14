@@ -33,6 +33,7 @@ Community Multisig:
 | PlatformFeeDistributor | 0xd2791781C367B2F512396105c8aB26479876e973 |
 | GaugeRewardDistributor | 0xF57b53df7326e2c6bCFA81b4A128A92E69Cb87B0 |
 | CTR Vesting            | 0x8341889905bdef85b87cb7644a93f7a482f28742 |
+| Concentrator Harvester | 0x9a3c5ec5De774E30074E623e2BF35395Beee3C98 |
 
 #### Concentrator for cvxCRV
 
@@ -108,6 +109,15 @@ Community Multisig:
 |  37 | clevCVX+CVX        | 0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6 |            |
 |  38 | clevUSD+FRAXBP     | 0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c |            |
 |  39 | ETH+CLEV           | 0x6c280db098db673d30d5b34ec04b6387185d3620 |            |
+|  40 | ETH+rETH           | 0x6c38ce8984a890f5e46e6df6117c26b3f1ecfc9c |            |
+|  41 | GEAR+ETH           | 0x5be6c45e2d074faa20700c49ada3e88a1cc0025d |            |
+|  42 | WETH+stETH         | 0x828b154032950c8ff7cf8085d841723db2696056 |            |
+|  43 | STG+USDC           | 0xdf55670e27be5cde7228dd0a6849181891c9eba1 |            |
+|  44 | ETH+LDO            | 0xb79565c01b7ae53618d9b847b9443aaf4f9011e7 |            |
+|  45 | ETH+MATIC          | 0xd8eb58d76af99547333cfeeb6a0f9bd1a63b6492 |            |
+|  46 | ETH+CNC            | 0xf9835375f6b268743ea0a54d742aa156947f8c06 |            |
+|  47 | tBTC+crvWSBTC      | 0xf95aaa7ebb1620e46221b73588502960ef63dba0 |            |
+|  48 | ETH+CTR            | 0x3f0e7916681452d23cd36b1281457da721f2e5df |            |
 
 #### Concentrator for Curve-FXS/cvxFXS-LP
 
@@ -162,6 +172,13 @@ Community Multisig:
 |  13 | WBTC+sBTC         | 0x051d7e5609917Bd9b73f04BAc0DED8Dd46a74301 | 0x3BBa4DE25AE1Cba2f0571f447880D039aF0D4D26 |       |
 |  14 | multiBTC+crvWSBTC | 0x2863a328A0B7fC6040f11614FA0728587DB8e353 | 0x6ACc16567D59Ad11eCda0d04653afc3b189d11dC |       |
 |  15 | ETH+CLEV          | 0x6c280db098db673d30d5b34ec04b6387185d3620 | 0x0D9acC496f6A946B7811237A96611A4A6f07815e |       |
+|  16 | GEAR+ETH          | 0x5be6c45e2d074faa20700c49ada3e88a1cc0025d | 0x00A3d360F0dE559AB7C0cd79AE031d52f626D99f |       |
+|  17 | STG+USDC          | 0xdf55670e27be5cde7228dd0a6849181891c9eba1 | 0xc1329472443b64eA4d9C0C5a883A8D6E0237Dd38 |       |
+|  18 | ETH+LDO           | 0xb79565c01b7ae53618d9b847b9443aaf4f9011e7 | 0xD756E64366daA2dFA1bC74B9fa9521f42C14382D |       |
+|  19 | ETH+MATIC         | 0xd8eb58d76af99547333cfeeb6a0f9bd1a63b6492 | 0x6fd3960454136687841C08afcc271Cbeea39a15E |       |
+|  20 | ETH+CNC           | 0xf9835375f6b268743ea0a54d742aa156947f8c06 | 0xaA2E30a32992c8921954C3b609d3c9A853bd3602 |       |
+|  21 | tBTC+crvWSBTC     | 0xf95aaa7ebb1620e46221b73588502960ef63dba0 | 0x4a60eCa2C2Afc5c92cE521b07E5aBEf7e9483877 |       |
+|  22 | CRV+sdCRV         | 0xf7b55c3732ad8b2c2da7c24f30a69f55c54fb717 | 0x1AF52e7D8C0fCb4c72287c7c207C305f5183dDc8 |       |
 
 #### Concentrator for Curve-ETH/stETH-LP
 
