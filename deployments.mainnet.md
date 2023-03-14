@@ -33,7 +33,7 @@ Community Multisig:
 | PlatformFeeDistributor | 0xd2791781C367B2F512396105c8aB26479876e973 |
 | GaugeRewardDistributor | 0xF57b53df7326e2c6bCFA81b4A128A92E69Cb87B0 |
 | CTR Vesting            | 0x8341889905bdef85b87cb7644a93f7a482f28742 |
-| Concentrator Harvester | 0x9a3c5ec5De774E30074E623e2BF35395Beee3C98 |
+| Concentrator Harvester | 0xfa86aa141e45da5183B42792d99Dede3D26Ec515 |
 
 #### Concentrator for cvxCRV
 
