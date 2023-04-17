@@ -298,8 +298,8 @@ TBD
 
 | Name                   |                  Address                   | Notes      |
 | ---------------------- | :----------------------------------------: | ---------- |
-| CompounderGateway      | 0x883Fd355deBF417F82Aa9a3E2936971487F7Df1F | deprecated |
-| ConcentratorGateway    | 0xD069866AceD882582b88E327E9E79Da4c88292B1 | deprecated |
+| CompounderGateway      | 0x883Fd355deBF417F82Aa9a3E2936971487F7Df1F |            |
+| ConcentratorGateway    | 0xD069866AceD882582b88E327E9E79Da4c88292B1 |            |
 | Balancer Gauge Gateway | 0xb44f8Ba6CD9FfeE97F8482D064E62Ba55edD4D72 | deprecated |
 | AllInOneGateway        | 0x6e513d492Ded19AD8211a57Cc6B4493C9E6C857B |            |
 
