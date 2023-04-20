@@ -275,8 +275,8 @@ TBD
 
 | Reward Token |               FeeDistributor               |
 | ------------ | :----------------------------------------: |
-| CVX          | 0x927ddC5A776F2bc225B9fb9ec16bDCEE09eB6C0D |
-| FRAX         | 0xa47A8a0fA6Bd6a596D15E83C4a91c97305a75c5B |
+| CVX          | 0x261E3aEB4cd1ebfD0Fa532d6AcDd4B21EbdCd2De |
+| FRAX         | 0xb5e7F9cb9d3897808658F1991AD32912959b42E2 |
 | CRV          |                    TBD                     |
 
 #### Liquidity Gauges
