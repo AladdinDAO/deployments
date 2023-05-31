@@ -7,6 +7,7 @@ Community Multisig:
 - For Management: [0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F](https://etherscan.io/address/0xc40549aa1D05C30af23a1C4a5af6bA11FCAFe23F)
 - CLever Treasury: [0xFC08757c505eA28709dF66E54870fB6dE09f0C5E](https://etherscan.io/address/0xFC08757c505eA28709dF66E54870fB6dE09f0C5E)
 - Concentrator Treasury: [0xA0FB1b11ccA5871fb0225B64308e249B97804E99](https://etherscan.io/address/0xA0FB1b11ccA5871fb0225B64308e249B97804E99)
+- f(x) Treasury: [0x26B2ec4E02ebe2F54583af25b647b1D619e67BbF](https://etherscan.io/address/0x26B2ec4E02ebe2F54583af25b647b1D619e67BbF)
 
 | Signer        |                                                        Address                                                        |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------: |
@@ -72,7 +73,7 @@ Community Multisig:
 |   0 | ETH+stETH          | 0x06325440D014e39736583c165C2963BA99fAf14E |            |
 |   1 | FRAX+3CRV          | 0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B |            |
 |   2 | USDT+WBTC+WETH     | 0xc4AD29ba4B3c580e6D59105FFf484999997675Ff |            |
-|   3 | CRV+cvxCRV         | 0x9D0464996170c6B9e75eED71c68B99dDEDf279e8 |            |
+|   3 | CRV+cvxCRV         | 0x9D0464996170c6B9e75eED71c68B99dDEDf279e8 | deprecated |
 |   4 | ETH+CRV            | 0xEd4064f376cB8d68F770FB1Ff088a3d0F3FF5c4d |            |
 |   5 | ETH+CVX            | 0x3A283D9c08E8b55966afb64C515f5143cf907611 |            |
 |   6 | FXS+cvxFXS         | 0xF3A43307DcAFa93275993862Aae628fCB50dC768 |            |
@@ -118,6 +119,20 @@ Community Multisig:
 |  46 | ETH+CNC            | 0xf9835375f6b268743ea0a54d742aa156947f8c06 |            |
 |  47 | tBTC+crvWSBTC      | 0xf95aaa7ebb1620e46221b73588502960ef63dba0 |            |
 |  48 | ETH+CTR            | 0x3f0e7916681452d23cd36b1281457da721f2e5df |            |
+|  49 | USDP+3CRV          | 0xc270b3B858c335B6BA5D5b10e2Da8a09976005ad |            |
+|  50 | CRV+cvxCRV         | 0x971add32Ea87f10bD192671630be3BE8A11b8623 |            |
+|  51 | eCFX+ETH           | 0x8C88538688aca3b733aD08b12BEe4574c0C00907 |            |
+|  52 | rETH+frxETH        | 0xbA6c373992AD8ec1f7520E5878E5540Eb36DeBf1 |            |
+|  53 | stETH+frxETH       | 0x4d9f9D15101EEC665F77210cB999639f760F831E |            |
+|  54 | cbETH+frxETH       | 0x548E063CE6F3BaC31457E4f5b4e2345286274257 |            |
+|  55 | sETH+frxETH        | 0x663aC72a1c3E1C4186CD3dCb184f216291F4878C |            |
+|  56 | FRAX+USDP          | 0xFC2838a17D8e8B1D5456E0a351B0708a09211147 |            |
+|  57 | UZD+FRAXBP         | 0x68934F60758243eafAf4D2cFeD27BF8010bede3a |            |
+|  58 | ETH+wBETH          | 0xBfAb6FA95E0091ed66058ad493189D2cB29385E6 |            |
+|  59 | USDT+crvUSD        | 0x390f3595bCa2Df7d23783dFd126427CCeb997BF4 |            |
+|  60 | USDP+crvUSD        | 0xCa978A0528116DDA3cbA9ACD3e68bc6191CA53D0 |            |
+|  61 | TUSD+crvUSD        | 0x34D655069F4cAc1547E4C8cA284FfFF5ad4A8db0 |            |
+|  62 | USDC+crvUSD        | 0x4DEcE678ceceb27446b35C672dC7d61F30bAD69E |            |
 
 #### Concentrator for Curve-FXS/cvxFXS-LP
 
@@ -142,6 +157,12 @@ Community Multisig:
 |   9 | ETH+frxETH     | 0xf43211935C781D5ca1a41d2041F397B8A7366C7A |            |
 |  10 | clevUSD+FRAXBP | 0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c |            |
 |  11 | ETH+CLEV       | 0x6c280db098db673d30d5b34ec04b6387185d3620 |            |
+|  12 | FPIS+cvxFPIS   | 0xfBB481A443382416357fA81F16dB5A725DC6ceC8 |            |
+|  13 | rETH+frxETH    | 0xbA6c373992AD8ec1f7520E5878E5540Eb36DeBf1 |            |
+|  14 | stETH+frxETH   | 0x4d9f9D15101EEC665F77210cB999639f760F831E |            |
+|  15 | cbETH+frxETH   | 0x548E063CE6F3BaC31457E4f5b4e2345286274257 |            |
+|  16 | sETH+frxETH    | 0x663aC72a1c3E1C4186CD3dCb184f216291F4878C |            |
+|  17 | FRAX+USDP      | 0xFC2838a17D8e8B1D5456E0a351B0708a09211147 |            |
 
 #### Concentrator for Curve-ETH/frxETH-LP
 
@@ -179,6 +200,11 @@ Community Multisig:
 |  20 | ETH+CNC           | 0xf9835375f6b268743ea0a54d742aa156947f8c06 | 0xaA2E30a32992c8921954C3b609d3c9A853bd3602 |       |
 |  21 | tBTC+crvWSBTC     | 0xf95aaa7ebb1620e46221b73588502960ef63dba0 | 0x4a60eCa2C2Afc5c92cE521b07E5aBEf7e9483877 |       |
 |  22 | CRV+sdCRV         | 0xf7b55c3732ad8b2c2da7c24f30a69f55c54fb717 | 0x1AF52e7D8C0fCb4c72287c7c207C305f5183dDc8 |       |
+|  23 | USDP+3CRV         | 0xc270b3B858c335B6BA5D5b10e2Da8a09976005ad | 0xF7520d4F1e94A6DacE0269973f58045ccF951501 |       |
+|  24 | USDT+crvUSD       | 0x390f3595bCa2Df7d23783dFd126427CCeb997BF4 | 0x9acdffE08487D2aDF6312bB88E98A68b4E11cd34 |       |
+|  25 | USDP+crvUSD       | 0xCa978A0528116DDA3cbA9ACD3e68bc6191CA53D0 | 0x8FfC5e47D69509Fa2FfEfCDD3A8E13b0Ec154b32 |       |
+|  26 | TUSD+crvUSD       | 0x34D655069F4cAc1547E4C8cA284FfFF5ad4A8db0 | 0x713A90B20e76c22483272Ea0d95f3eD594a16A5A |       |
+|  27 | USDC+crvUSD       | 0x4DEcE678ceceb27446b35C672dC7d61F30bAD69E | 0x388f90091fE67B923f743256533Dd8AaaA368b19 |       |
 
 #### Concentrator for Curve-ETH/stETH-LP
 
