@@ -23,6 +23,13 @@ Community Multisig:
 
 ## V3 Contracts
 
+### f(x) protocol
+
+| Name       |                  Address                   | Notes |
+| ---------- | :----------------------------------------: | ----- |
+| ProxyAdmin | 0x9B54B7703551D9d0ced177A78367560a8B2eDDA4 |       |
+| TokenSale  | 0x3eB6Da2d3f39BA184AEA23876026E0747Fb0E17f |       |
+
 ### Concentrator
 
 | Name                   |                  Address                   |
