@@ -140,6 +140,9 @@ Community Multisig:
 |  60 | USDP+crvUSD        | 0xCa978A0528116DDA3cbA9ACD3e68bc6191CA53D0 |            |
 |  61 | TUSD+crvUSD        | 0x34D655069F4cAc1547E4C8cA284FfFF5ad4A8db0 |            |
 |  62 | USDC+crvUSD        | 0x4DEcE678ceceb27446b35C672dC7d61F30bAD69E |            |
+|  63 | USDC/WBTC/ETH      | 0x7f86bf177dd4f3494b841a37e810a34dd56c829b |            |
+|  64 | USDT/WBTC/ETH      | 0xf5f5b97624542d72a9e06f04804bf81baa15e2b4 |            |
+|  65 | ETH/stETH          | 0x21e27a5e5513d6e65c4f830167390997aa84843a |            |
 
 #### Concentrator for Curve-FXS/cvxFXS-LP
 
@@ -219,12 +222,28 @@ TBD
 
 #### Concentrator for sdCRV
 
-| Name                |                  Address                   | Notes |
-| ------------------- | :----------------------------------------: | ----- |
-| StakeDAOLockerProxy | 0x1c0D72a330F2768dAF718DEf8A19BAb019EEAd09 |       |
-| VeSDTDelegation     | 0x6037Bb1BBa598bf88D816cAD90A28cC00fE3ff64 |       |
-| StakeDAOCRVVault    | 0x2b3e72f568F96d7209E20C8B8f4F2A363ee1E3F6 |       |
-| AladdinSdCRV        | 0x43E54C2E7b3e294De3A155785F52AB49d87B9922 |       |
+| Name                       |                  Address                   | Notes |
+| -------------------------- | :----------------------------------------: | ----- |
+| StakeDAOLockerProxy        | 0x1c0D72a330F2768dAF718DEf8A19BAb019EEAd09 |       |
+| VeSDTDelegation            | 0x6037Bb1BBa598bf88D816cAD90A28cC00fE3ff64 |       |
+| StakeDAOCRVVault           | 0x2b3e72f568F96d7209E20C8B8f4F2A363ee1E3F6 |       |
+| AladdinSdCRV               | 0x43E54C2E7b3e294De3A155785F52AB49d87B9922 |       |
+| ConcentratorVaultForAsdCRV | 0x59866EC5650e9BA00c51f6D681762b48b0AdA3de |       |
+
+##### Pool in ConcentratorVaultForAsdCRV
+
+| PID | Name           |                 Underlying                 |                  Strategy                  | Notes |
+| --: | -------------- | :----------------------------------------: | :----------------------------------------: | ----- |
+|   0 | MIM+3CRV       | 0x5a6A4D54456819380173272A5E8E9B9904BdF41B | 0x3125FC8b81593B39baC2590C58c48CB417e5D859 |       |
+|   1 | ETH+pETH       | 0x9848482da3Ee3076165ce6497eDA906E66bB85C5 | 0xB634b550BE88c968e21DCBC68BCb96D39F75B06C |       |
+|   2 | clevUSD+FRAXBP | 0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c | 0x6deaF124A8bFb8616B994B4fD55544A68062C274 |       |
+|   3 | CRV+cvxCRV     | 0x971add32Ea87f10bD192671630be3BE8A11b8623 | 0x4cDB0e8CEC25d134948F5c26395B529D0F17042D |       |
+|   4 | eCFX+ETH       | 0x8C88538688aca3b733aD08b12BEe4574c0C00907 | 0xEb6Bcc57dF50F007Da79c12CC1790153CC3352ec |       |
+|   5 | USDT+crvUSD    | 0x390f3595bCa2Df7d23783dFd126427CCeb997BF4 | 0x44d5c2Ad61cfa4d01D79ef11b4feE6C9d6616Ba6 |       |
+|   6 | USDC+crvUSD    | 0x4DEcE678ceceb27446b35C672dC7d61F30bAD69E | 0xE1c863E0Bb81717dEa24a477eC23AD8602340198 |       |
+|   7 | USDC/WBTC/ETH  | 0x7f86bf177dd4f3494b841a37e810a34dd56c829b | 0x297DB2492E7B26CC800C6e4a5ebf4FA84ff53aA3 |       |
+|   8 | USDT/WBTC/ETH  | 0xf5f5b97624542d72a9e06f04804bf81baa15e2b4 | 0xF01Bd63cAB35e9D7EfC0e3684bDda33D49EdA51f |       |
+|   9 | CRV+sdCRV      | 0xCA0253A98D16e9C1e3614caFDA19318EE69772D0 | 0x4e5854A9fB8CBE4f9196D30dE5014FCe9699295c |       |
 
 #### Concentrator for CLever CVX
 
