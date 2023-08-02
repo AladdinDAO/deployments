@@ -29,6 +29,7 @@ Community Multisig:
 | ---------- | :----------------------------------------: | ----- |
 | ProxyAdmin | 0x9B54B7703551D9d0ced177A78367560a8B2eDDA4 |       |
 | TokenSale  | 0x3eB6Da2d3f39BA184AEA23876026E0747Fb0E17f |       |
+| TokenSale Round2  | 0x674A745ADb09c3333D655cC63e2d77ACbE6De935 |       |
 
 ### Concentrator
 
