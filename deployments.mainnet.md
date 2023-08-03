@@ -25,17 +25,19 @@ Community Multisig:
 
 ### f(x) protocol
 
-| Name           |                  Address                   | Notes |
-| -------------- | :----------------------------------------: | ----- |
-| ProxyAdmin     | 0x9B54B7703551D9d0ced177A78367560a8B2eDDA4 |       |
-| TokenSale      | 0x3eB6Da2d3f39BA184AEA23876026E0747Fb0E17f |       |
-| fETH           | 0x53805A76E1f5ebbFE7115F16f9c87C2f7e633726 |       |
-| xETH           | 0xe063F04f280c60aECa68b38341C2eEcBeC703ae2 |       |
-| stETHTreasury  | 0x0e5CAA5c889Bdf053c9A76395f62267E653AFbb0 |       |
-| Market         | 0xe7b9c7c9cA85340b8c06fb805f7775e3015108dB |       |
-| RebalancePool  | 0xa677d95B91530d56791FbA72C01a862f1B01A49e |       |
-| stETHGateway   | 0x4C5C52d507066780500e627d592DbE11476E7c21 |       |
-| wstETHWrapper  | 0xb09e34dD25d5E88a1E9Ff6F6418109927675B658 |       |
+| Name                 |                  Address                   | Notes |
+| ---------------------| :----------------------------------------: | ----- |
+| ProxyAdmin           | 0x9B54B7703551D9d0ced177A78367560a8B2eDDA4 |       |
+| TokenSale            | 0x3eB6Da2d3f39BA184AEA23876026E0747Fb0E17f |       |
+| TokenSale Round2     | 0x674A745ADb09c3333D655cC63e2d77ACbE6De935 |       |
+| fETH                 | 0x53805A76E1f5ebbFE7115F16f9c87C2f7e633726 |       |
+| xETH                 | 0xe063F04f280c60aECa68b38341C2eEcBeC703ae2 |       |
+| stETHTreasury        | 0x0e5CAA5c889Bdf053c9A76395f62267E653AFbb0 |       |
+| Market               | 0xe7b9c7c9cA85340b8c06fb805f7775e3015108dB |       |
+| RebalancePool        | 0xa677d95B91530d56791FbA72C01a862f1B01A49e |       |
+| stETHGateway         | 0x4C5C52d507066780500e627d592DbE11476E7c21 |       |
+| wstETHWrapper        | 0xb09e34dD25d5E88a1E9Ff6F6418109927675B658 |       |
+| ChainlinkTwapOracleV3| 0x460B3CdE57DfbA90DBed02fd83d3990a92DA1230 |       |
 
 
 ### Concentrator
