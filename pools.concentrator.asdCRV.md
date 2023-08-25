@@ -1,0 +1,14 @@
+## asdCRV Vault
+
+| PID | Name           |                 Underlying                 |                  Strategy                  | Notes |
+| --: | -------------- | :----------------------------------------: | :----------------------------------------: | ----- |
+|   0 | MIM+3CRV       | 0x5a6A4D54456819380173272A5E8E9B9904BdF41B | 0x3125FC8b81593B39baC2590C58c48CB417e5D859 |       |
+|   1 | ETH+pETH       | 0x9848482da3Ee3076165ce6497eDA906E66bB85C5 | 0xB634b550BE88c968e21DCBC68BCb96D39F75B06C |       |
+|   2 | clevUSD+FRAXBP | 0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c | 0x6deaF124A8bFb8616B994B4fD55544A68062C274 |       |
+|   3 | CRV+cvxCRV     | 0x971add32Ea87f10bD192671630be3BE8A11b8623 | 0x4cDB0e8CEC25d134948F5c26395B529D0F17042D |       |
+|   4 | eCFX+ETH       | 0x8C88538688aca3b733aD08b12BEe4574c0C00907 | 0xEb6Bcc57dF50F007Da79c12CC1790153CC3352ec |       |
+|   5 | USDT+crvUSD    | 0x390f3595bCa2Df7d23783dFd126427CCeb997BF4 | 0x44d5c2Ad61cfa4d01D79ef11b4feE6C9d6616Ba6 |       |
+|   6 | USDC+crvUSD    | 0x4DEcE678ceceb27446b35C672dC7d61F30bAD69E | 0xE1c863E0Bb81717dEa24a477eC23AD8602340198 |       |
+|   7 | USDC/WBTC/ETH  | 0x7f86bf177dd4f3494b841a37e810a34dd56c829b | 0x297DB2492E7B26CC800C6e4a5ebf4FA84ff53aA3 |       |
+|   8 | USDT/WBTC/ETH  | 0xf5f5b97624542d72a9e06f04804bf81baa15e2b4 | 0xF01Bd63cAB35e9D7EfC0e3684bDda33D49EdA51f |       |
+|   9 | CRV+sdCRV      | 0xCA0253A98D16e9C1e3614caFDA19318EE69772D0 | 0x4e5854A9fB8CBE4f9196D30dE5014FCe9699295c |       |
