@@ -25,19 +25,46 @@ Community Multisig:
 
 ### f(x) protocol
 
-| Name                  |                  Address                   | Notes |
-| --------------------- | :----------------------------------------: | ----- |
-| ProxyAdmin            | 0x9B54B7703551D9d0ced177A78367560a8B2eDDA4 |       |
-| TokenSale             | 0x3eB6Da2d3f39BA184AEA23876026E0747Fb0E17f |       |
-| TokenSale Round2      | 0x674A745ADb09c3333D655cC63e2d77ACbE6De935 |       |
-| fETH                  | 0x53805A76E1f5ebbFE7115F16f9c87C2f7e633726 |       |
-| xETH                  | 0xe063F04f280c60aECa68b38341C2eEcBeC703ae2 |       |
-| stETHTreasury         | 0x0e5CAA5c889Bdf053c9A76395f62267E653AFbb0 |       |
-| Market                | 0xe7b9c7c9cA85340b8c06fb805f7775e3015108dB |       |
-| RebalancePool         | 0xa677d95B91530d56791FbA72C01a862f1B01A49e |       |
-| stETHGateway          | 0x4C5C52d507066780500e627d592DbE11476E7c21 |       |
-| wstETHWrapper         | 0xb09e34dD25d5E88a1E9Ff6F6418109927675B658 |       |
-| ChainlinkTwapOracleV3 | 0x460B3CdE57DfbA90DBed02fd83d3990a92DA1230 |       |
+- [Fx.Governance](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/deployments/mainnet/Fx.Governance.json)
+- [Fx.stETH](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/deployments/mainnet/Fx.stETH.json)
+
+#### Governance
+
+| Name                 |                  Address                   | Notes |
+| -------------------- | :----------------------------------------: | ----- |
+| TokenSale Round1     | 0x3eB6Da2d3f39BA184AEA23876026E0747Fb0E17f |       |
+| TokenSale Round2     | 0x674A745ADb09c3333D655cC63e2d77ACbE6De935 |       |
+| FXN                  | 0x365AccFCa291e7D3914637ABf1F7635dB165Bb09 |       |
+| veFXN                | 0xEC6B8A3F3605B083F7044C0F31f2cac0caf1d469 |       |
+| TokenMinter          | 0xC8b194925D55d5dE9555AD1db74c149329F71DeF |       |
+| GaugeController      | 0xe60eB8098B34eD775ac44B1ddE864e098C6d7f37 |       |
+| SmartWalletWhitelist | 0xD71B8B76015F296E53D41e8288a8a13eAfFff2ea |       |
+| Vesting              | 0x2290eeFEa24A6E43b26C27187742bD1FEDC10BDB |       |
+| MultipleVestHelper   | 0x267b7A1d56d624293Ba1819f30B5bf0F12A524E4 |       |
+
+#### f(x) on stETH
+
+| Name                        |                  Address                   | Notes      |
+| --------------------------- | :----------------------------------------: | ---------- |
+| fETH                        | 0x53805A76E1f5ebbFE7115F16f9c87C2f7e633726 |            |
+| xETH                        | 0xe063F04f280c60aECa68b38341C2eEcBeC703ae2 |            |
+| stETHTreasury               | 0x0e5CAA5c889Bdf053c9A76395f62267E653AFbb0 |            |
+| Market                      | 0xe7b9c7c9cA85340b8c06fb805f7775e3015108dB |            |
+| RebalancePool               | 0xa677d95B91530d56791FbA72C01a862f1B01A49e |            |
+| ReservePool                 | 0x5d0Aacf75116d1645Db2B3d1Ca4b303ef0CA3752 |            |
+| FxGateway                   | 0x49e51067E695bd79d6275eCaB6E9E527a72AbdE4 |            |
+| stETHGateway                | 0x9bF5fFABbF97De0a47843A7Ba0A9DDB40f2e2ed5 | deprecated |
+| wstETHWrapper               | 0xb09e34dD25d5E88a1E9Ff6F6418109927675B658 |            |
+| FxETHTwapOracle             | 0xa84360896cE9152d1780c546305BB54125F962d9 |            |
+| ChainlinkTwapOracleV3 ETH   | 0x460B3CdE57DfbA90DBed02fd83d3990a92DA1230 |            |
+| ChainlinkTwapOracleV3 stETH | 0xD24AC180e6769Fd5F624e7605B93084171074A77 |            |
+
+#### Revenue Sharing
+
+| Name                 |                  Address                   | Notes |
+| -------------------- | :----------------------------------------: | ----- |
+| PlatformFeeSpliter   | 0x0084C2e1B1823564e597Ff4848a88D61ac63D703 |       |
+| FeeDistributor stETH | 0x851AAEA3A2757D457E1Ce88C3808C1690213e432 |       |
 
 ### Concentrator
 
