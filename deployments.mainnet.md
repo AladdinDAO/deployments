@@ -61,10 +61,15 @@ Community Multisig:
 
 #### Revenue Sharing
 
-| Name                 |                  Address                   | Notes |
-| -------------------- | :----------------------------------------: | ----- |
-| PlatformFeeSpliter   | 0x0084C2e1B1823564e597Ff4848a88D61ac63D703 |       |
-| FeeDistributor stETH | 0x851AAEA3A2757D457E1Ce88C3808C1690213e432 |       |
+| Name                  |                  Address                   | Notes      |
+| --------------------- | :----------------------------------------: | ---------- |
+| PlatformFeeSpliter    | 0x0084C2e1B1823564e597Ff4848a88D61ac63D703 |            |
+| FeeDistributor stETH  | 0x851AAEA3A2757D457E1Ce88C3808C1690213e432 | deprecated |
+| FeeDistributor wstETH | 0xd116513EEa4Efe3908212AfBAeFC76cb29245681 |            |
+
+| Token Burner      |                  Address                   | Note  |
+| ----------------- | :----------------------------------------: | :---: |
+| PlatformFeeBurner | 0x6440e21A3634C319c69CEf8d17601DBC4E97C3dB | stETH |
 
 ### Concentrator
 
@@ -237,7 +242,8 @@ TBD
 | Name                  |                  Address                   |
 | --------------------- | :----------------------------------------: |
 | ConverterRegistry     | 0xa617206663343b6353acF27566586eE9b53DFb2b |
-| GeneralTokenConverter | 0xAF345c813CE17Cc5837BfD14a910D365223F3B95 |
+| GeneralTokenConverter | 0xa3F4fB87e19B60622bEA119C4469c0Df2c7c4739 |
+| LidoConverter         | 0x6F862115282037d60C7C185933664178cB3108C7 |
 
 ### Gateways
 
