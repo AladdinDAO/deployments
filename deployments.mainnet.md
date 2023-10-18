@@ -71,6 +71,44 @@ Community Multisig:
 | ----------------- | :----------------------------------------: | :---: |
 | PlatformFeeBurner | 0x6440e21A3634C319c69CEf8d17601DBC4E97C3dB | stETH |
 
+#### Bridging
+
+##### fETH
+
+- Ethereum ProxyOFT: 0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763
+
+| Chain      | Token Address                              |
+| ---------- | ------------------------------------------ |
+| Ethereum   | 0x53805A76E1f5ebbFE7115F16f9c87C2f7e633726 |
+| Arbitrum   | 0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763 |
+| BSC        | 0xF9E10DAA647E540BF3d1334377a88361aB980e94 |
+| Optimistic | 0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763 |
+| Polygon    | 0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763 |
+
+##### xETH
+
+- Ethereum ProxyOFT: 0x535f7Ca9637A5099DB568b79a3624CFd6B5fc833
+
+| Chain      | Token Address                              |
+| ---------- | ------------------------------------------ |
+| Ethereum   | 0xe063F04f280c60aECa68b38341C2eEcBeC703ae2 |
+| Arbitrum   | 0x55380fe7A1910dFf29A47B622057ab4139DA42C5 |
+| BSC        | 0x62C6867e4f2e63302B15cbf9b8540214a13beeac |
+| Optimistic | 0xa7580d4AdC6D302D2D4C7C3dB93E9aE3F82C4617 |
+| Polygon    | 0xa7580d4AdC6D302D2D4C7C3dB93E9aE3F82C4617 |
+
+##### FXN
+
+- Ethereum ProxyOFT: 0x808130d89fC067a7a8D9dDF4ca2abf6EB5Ed3B32
+
+| Chain      | Token Address                              |
+| ---------- | ------------------------------------------ |
+| Ethereum   | 0x365AccFCa291e7D3914637ABf1F7635dB165Bb09 |
+| Arbitrum   | 0x179F38f78346F5942E95C5C59CB1da7F55Cf7CAd |
+| BSC        | 0xa64f68c089B3E69d48F6047d3Be513349E74b3De |
+| Optimistic | 0xC752C6DaA143e1a0ba3E7Df06f3117182432b991 |
+| Polygon    | 0xC752C6DaA143e1a0ba3E7Df06f3117182432b991 |
+
 ### Concentrator
 
 | Name                   |                  Address                   |
@@ -138,6 +176,13 @@ TBD
 | Curve clevCVX/CVX LP   | 0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6 |       |
 | abcCVX                 | 0xDEC800C2b17c9673570FDF54450dc1bd79c8E359 |       |
 | AMOConvexCurveStrategy | 0x29E56d5E68b4819FC4a997b91fc9F4f8818ef1B4 |       |
+
+#### Concentrator for CVX
+
+| Name               |                  Address                   | Notes |
+| ------------------ | :----------------------------------------: | ----- |
+| CvxCompounder      | 0xb0903Ab70a7467eE5756074b31ac88aEBb8fB777 |       |
+| CvxStakingStrategy | 0x837592b44EE5447074b80Cb21bF37a8c5E4c08f8 |       |
 
 #### Revenue Sharing
 
@@ -239,11 +284,14 @@ TBD
 
 ### Token Converter
 
-| Name                  |                  Address                   |
-| --------------------- | :----------------------------------------: |
-| ConverterRegistry     | 0xa617206663343b6353acF27566586eE9b53DFb2b |
-| GeneralTokenConverter | 0xa3F4fB87e19B60622bEA119C4469c0Df2c7c4739 |
-| LidoConverter         | 0x6F862115282037d60C7C185933664178cB3108C7 |
+| Name                  |                  Address                   | Version |
+| --------------------- | :----------------------------------------: | :-----: |
+| ConverterRegistry     | 0xa617206663343b6353acF27566586eE9b53DFb2b |   v1    |
+| GeneralTokenConverter | 0xa3F4fB87e19B60622bEA119C4469c0Df2c7c4739 |   v1    |
+| LidoConverter         | 0x6F862115282037d60C7C185933664178cB3108C7 |   v1    |
+| ConverterRegistry     | 0x997B6F43c1c1e8630d03B8E3C11B60E98A1beA90 |   v2    |
+| GeneralTokenConverter | 0x11C907b3aeDbD863e551c37f21DD3F36b28A6784 |   v2    |
+| LidoConverter         | 0xFFD43edCcec1c27091cB2Aef57b313037E135987 |   v2    |
 
 ### Gateways
 
