@@ -58,6 +58,7 @@ Community Multisig:
 | FxETHTwapOracle             | 0xa84360896cE9152d1780c546305BB54125F962d9 |            |
 | ChainlinkTwapOracleV3 ETH   | 0x460B3CdE57DfbA90DBed02fd83d3990a92DA1230 |            |
 | ChainlinkTwapOracleV3 stETH | 0xD24AC180e6769Fd5F624e7605B93084171074A77 |            |
+| RebalanceWithBonusToken     | 0x17f21f468d77E6e35702a9Ae7a9da50Db7F6a4f4 | bonus FXN  |
 
 #### Revenue Sharing
 
