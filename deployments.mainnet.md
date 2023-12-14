@@ -58,12 +58,21 @@ Community Multisig:
 | FxGateway                   | 0x5c28b966aB37cFB9397bBc04595f91F0fBf06d9b |            |
 | stETHGateway                | 0x9bF5fFABbF97De0a47843A7Ba0A9DDB40f2e2ed5 | deprecated |
 | wstETHWrapper               | 0xb09e34dD25d5E88a1E9Ff6F6418109927675B658 |            |
+| StETHAndxETHWrapper         | 0xC2BdBF323304eaBd9260b42E4d0d429Ca3481d6E |            |
 | FxETHTwapOracle             | 0xa84360896cE9152d1780c546305BB54125F962d9 |            |
 | ChainlinkTwapOracleV3 ETH   | 0x460B3CdE57DfbA90DBed02fd83d3990a92DA1230 |            |
 | ChainlinkTwapOracleV3 stETH | 0xD24AC180e6769Fd5F624e7605B93084171074A77 |            |
-| RebalanceWithBonusToken     | 0x17f21f468d77E6e35702a9Ae7a9da50Db7F6a4f4 | bonus FXN  |
-| RebalancePoolRegistry       | 0x4eEfea49e4D876599765d5375cF7314cD14C9d38 |            |
-| RebalancePoolSplitter       | 0x79c5f5b0753acE25ecdBdA4c2Bc86Ab074B6c2Bb |            |
+
+#### Rebalance Pool (fETH)
+
+- RebalancePoolRegistry: 0x4eEfea49e4D876599765d5375cF7314cD14C9d38
+- RebalancePoolSplitter: 0x79c5f5b0753acE25ecdBdA4c2Bc86Ab074B6c2Bb
+
+| Name                          |                  Address                   |                 liquidator                 | Notes      |
+| ----------------------------- | :----------------------------------------: | :----------------------------------------: | ---------- |
+| RebalancePool.wstETH          | 0xa677d95B91530d56791FbA72C01a862f1B01A49e | 0x17f21f468d77E6e35702a9Ae7a9da50Db7F6a4f4 | deprecated |
+| BoostableRebalancePool.wstETH | 0xc6dEe5913e010895F3702bc43a40d661B13a40BD | 0x74E9234A6e03c382A01Bb942B1aF05B639371309 |            |
+| BoostableRebalancePool.xETH   | 0xB87A8332dFb1C76Bb22477dCfEdDeB69865cA9f9 | 0x5a161B94c737326cA115eC46f4Eaf4eEC5037dBE |            |
 
 #### Revenue Sharing
 
