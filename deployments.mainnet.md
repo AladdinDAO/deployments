@@ -54,7 +54,6 @@ Community Multisig:
 | xETH                        | 0xe063F04f280c60aECa68b38341C2eEcBeC703ae2 |            |
 | stETHTreasury               | 0x0e5CAA5c889Bdf053c9A76395f62267E653AFbb0 |            |
 | Market                      | 0xe7b9c7c9cA85340b8c06fb805f7775e3015108dB |            |
-| RebalancePool               | 0xa677d95B91530d56791FbA72C01a862f1B01A49e |            |
 | ReservePool                 | 0x5d0Aacf75116d1645Db2B3d1Ca4b303ef0CA3752 |            |
 | FxGateway                   | 0x5c28b966aB37cFB9397bBc04595f91F0fBf06d9b |            |
 | stETHGateway                | 0x9bF5fFABbF97De0a47843A7Ba0A9DDB40f2e2ed5 | deprecated |
