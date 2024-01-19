@@ -36,6 +36,7 @@ Community Multisig:
 | TokenSale Round2      | 0x674A745ADb09c3333D655cC63e2d77ACbE6De935 |       |
 | FXN                   | 0x365AccFCa291e7D3914637ABf1F7635dB165Bb09 |       |
 | veFXN                 | 0xEC6B8A3F3605B083F7044C0F31f2cac0caf1d469 |       |
+| VotingEscrowHelper    | 0xd766f2b87DE4b08c2239580366e49710180aba02 |       |
 | TokenMinter           | 0xC8b194925D55d5dE9555AD1db74c149329F71DeF |       |
 | GaugeController       | 0xe60eB8098B34eD775ac44B1ddE864e098C6d7f37 |       |
 | SmartWalletWhitelist  | 0xD71B8B76015F296E53D41e8288a8a13eAfFff2ea |       |
@@ -67,6 +68,8 @@ Community Multisig:
 
 - RebalancePoolRegistry: 0x4eEfea49e4D876599765d5375cF7314cD14C9d38
 - RebalancePoolSplitter: 0x79c5f5b0753acE25ecdBdA4c2Bc86Ab074B6c2Bb
+- Gauge: 0x9710ca7f3edd4893f399c89ea184d92cc7172e28
+- RebalancePoolGaugeClaimer: 0x81243a88Dd9Fb963c643bD3f2194c2cA9CCFc428
 
 | Name                          |                  Address                   |                 liquidator                 | Notes      |
 | ----------------------------- | :----------------------------------------: | :----------------------------------------: | ---------- |
