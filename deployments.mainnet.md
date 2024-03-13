@@ -61,11 +61,19 @@ Community Multisig:
 
 #### Liquidity Gauge
 
-| Name       |                 LP Address                 |               Gauge Address                |   Notes   |
-| ---------- | :----------------------------------------: | :----------------------------------------: | :-------: |
-| ETH+FXN    | 0xE06A65e09Ae18096B99770A809BA175FA05960e2 | 0xA5250C540914E012E22e623275E290c4dC993D11 | dual farm |
-| FXN+cvxFXN | 0x1062FD8eD633c1f080754c19317cb3912810B5e5 | 0xfEFafB9446d84A9e58a3A2f2DDDd7219E8c94FbB | dual farm |
-| FXN+sdFXN  | 0x28Ca243dc0aC075dD012fCf9375C25D18A844d96 | 0x5b1D12365BEc01b8b672eE45912d1bbc86305dba | dual farm |
+| Name         |                 LP Address                 |               Gauge Address                |   Notes   |
+| ------------ | :----------------------------------------: | :----------------------------------------: | :-------: |
+| ETH+FXN      | 0xE06A65e09Ae18096B99770A809BA175FA05960e2 | 0xA5250C540914E012E22e623275E290c4dC993D11 | dual farm |
+| FXN+cvxFXN   | 0x1062FD8eD633c1f080754c19317cb3912810B5e5 | 0xfEFafB9446d84A9e58a3A2f2DDDd7219E8c94FbB | dual farm |
+| FXN+sdFXN    | 0x28Ca243dc0aC075dD012fCf9375C25D18A844d96 | 0x5b1D12365BEc01b8b672eE45912d1bbc86305dba | dual farm |
+| crvUSD+fxUSD | 0x8ffc7b89412efd0d17edea2018f6634ea4c2fcb2 | 0xF4Bd6D66bAFEA1E0500536d52236f64c3e8a2a84 | dual farm |
+| PYUSD+fxUSD  | 0xd6982da59F1D26476E259559508f4135135cf9b8 | 0xeD113B925AC3f972161Be012cdFEE33470040E6a | dual farm |
+| DOLA+fxUSD   | 0x189B4e49B5cAf33565095097b4B960F14032C7D0 | 0x61F32964C39Cca4353144A6DB2F8Efdb3216b35B | dual farm |
+| GRAI+fxUSD   | 0x69Cf42F15F9325986154b61A013da6E8feC82CCF | 0xfa4761512aaf899b010438a10C60D01EBdc0eFcA | dual farm |
+| FRAX+fxUSD   | 0x1EE81c56e42EC34039D993d12410d437DdeA341E | 0x31b630B21065664dDd2dBa0eD3a60D8ff59501F0 | dual farm |
+| GHO+fxUSD    | 0x74345504Eaea3D9408fC69Ae7EB2d14095643c5b | 0xf0A3ECed42Dbd8353569639c0eaa833857aA0A75 | dual farm |
+| mkUSD+fxUSD  | 0xca554e2e2948a211d4650fe0f4e271f01f9cb5f1 | 0xDbA9a415bae1983a945ba078150CAe8b690c9229 | dual farm |
+| ULTRA+fxUSD  | 0xf33ab11e5c4e55dacb13644f0c0a9d1e199a796f | 0x0d3e9A29E856CF00d670368a7ab0512cb0c29FAC | dual farm |
 
 #### Rebalance Pool Gauge
 
