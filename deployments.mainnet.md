@@ -58,6 +58,7 @@ Community Multisig:
 | ChainlinkTwapOracleV3 stETH | 0xD24AC180e6769Fd5F624e7605B93084171074A77 | 30min twap |
 | FxStETHTwapOracle           | 0xa84360896cE9152d1780c546305BB54125F962d9 | 30min twap |
 | FxFrxETHTwapOracle          | 0x939c38921c961DecB3cc16f601C32d07C41cd25C | 30min twap |
+| FxEETHTwapOracle            | 0x834E87262A00b0aC38eD49Cb1110838866bE4a20 | 30min twap |
 
 #### Liquidity Gauge
 
@@ -82,6 +83,7 @@ Community Multisig:
 | fETH    | 0x9710ca7f3edd4893f399c89ea184d92cc7172e28 | 0x81243a88Dd9Fb963c643bD3f2194c2cA9CCFc428 |       |
 | fstETH  | 0xf422446F7730e50B9CAb4618343425d9927b35ED | 0xCa0563ab14a87ee64d6b097B0dfC46E9B56820aD |       |
 | ffrxETH | 0xB3886b8c94C8635B786b1CA88942337669BB1e1E | 0x4ae3BE52c411CC08434d28645FD391497C69c815 |       |
+| feETH   | 0xf594bDfafE4197144C6459FcA611d7B868d36bEa | 0x835191186745e63f9e325E741B273ff925174d7e |       |
 
 #### fxUSD, beta = 0
 
@@ -119,6 +121,26 @@ Community Multisig:
 | RebalancePool.sfrxETH       | 0xb925F8CAA6BE0BFCd1A7383168D1c932D185A748 |       |
 | RebalancePool.xfrxETH       | 0x4a2ab45D27428901E826db4a52Dae00594b68022 |       |
 | LeveragedTokenWrapper       | 0x823BaF74524b707d649A2a78E66DF106f5A131aB |       |
+
+#### rUSD, beta = 0
+
+- rUSD: 0x65D72AA8DA931F047169112fcf34f52DbaAE7D18
+- FxUSDRebalancer: 0x78c3aF23A4DeA2F630C130d2E42717587584BF05
+
+##### feETH & xeETH
+
+| Name                  |                  Address                   | Notes |
+| --------------------- | :----------------------------------------: | ----- |
+| Treasury              | 0x781BA968d5cc0b40EB592D5c8a9a3A4000063885 |       |
+| Market                | 0x267C6A96Db7422faA60Aa7198FfEeeC4169CD65f |       |
+| feETH                 | 0x9216272158F563488FfC36AFB877acA2F265C560 |       |
+| xeETH                 | 0xACB3604AaDF26e6C0bb8c720420380629A328d2C |       |
+| FxInitialFund         | 0x6dc7a100d09DDbF344FC4Dd0398f79500D0c2716 |       |
+| RebalancePoolRegistry | 0xb1dD23468a69DFDDb7211298e609C0DB1522B2D6 |       |
+| RebalancePoolSplitter | 0x015729C84A1C5E541DFbF6f0dDc59AE66527B5eD |       |
+| RebalancePool.weETH   | 0xc2DeF1E39FF35367F2F2a312a793477C576fD4c3 |       |
+| RebalancePool.xeETH   | 0x7EB0ed173480299e1310d55E04Ece401c2B06626 |       |
+| LeveragedTokenWrapper | 0xA9414Ee8b2b2563E70174972FAa2E8B5197Feb5D |       |
 
 #### f(x) on stETH, beta = 0.1
 
