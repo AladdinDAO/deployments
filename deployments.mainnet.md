@@ -149,13 +149,13 @@ Community Multisig:
 | --------------------- | :----------------------------------------: | ----- |
 | Treasury              | 0x38965311507D4E54973F81475a149c09376e241e |       |
 | Market                | 0x69518D1D70AD537C41401303BDf96032338E40dE |       |
-| feETH                 | 0x50B4DC15b34E31671c9cA40F9eb05D7eBd6b13f9 |       |
-| xeETH                 | 0x2e5A5AF7eE900D34BCFB70C47023bf1d6bE35CF5 |       |
+| fezETH                | 0x50B4DC15b34E31671c9cA40F9eb05D7eBd6b13f9 |       |
+| xezETH                | 0x2e5A5AF7eE900D34BCFB70C47023bf1d6bE35CF5 |       |
 | FxInitialFund         | 0x7612bCAbd3D66c71fF740472e063be6a74f126D1 |       |
 | RebalancePoolRegistry | 0x5e3ca2A5736fb093328e4CA19A9A1966025f3905 |       |
 | RebalancePoolSplitter | 0x2755EEbf220BFD31B83Fd9244B6D061bCa225311 |       |
-| RebalancePool.weETH   | 0xf58c499417e36714e99803Cb135f507a95ae7169 |       |
-| RebalancePool.xeETH   | 0xBa947cba270D30967369Bf1f73884Be2533d7bDB |       |
+| RebalancePool.wezETH  | 0xf58c499417e36714e99803Cb135f507a95ae7169 |       |
+| RebalancePool.xezETH  | 0xBa947cba270D30967369Bf1f73884Be2533d7bDB |       |
 | LeveragedTokenWrapper | 0xBeb4289491EBFE8452CfAc8830a6285E42A4742b |       |
 
 #### f(x) on stETH, beta = 0.1
