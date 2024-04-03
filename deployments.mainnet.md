@@ -84,6 +84,7 @@ Community Multisig:
 | fstETH  | 0xf422446F7730e50B9CAb4618343425d9927b35ED | 0xCa0563ab14a87ee64d6b097B0dfC46E9B56820aD |       |
 | ffrxETH | 0xB3886b8c94C8635B786b1CA88942337669BB1e1E | 0x4ae3BE52c411CC08434d28645FD391497C69c815 |       |
 | feETH   | 0xf594bDfafE4197144C6459FcA611d7B868d36bEa | 0x835191186745e63f9e325E741B273ff925174d7e |       |
+| fezETH  | 0xb2E43ECecA7c110c74Cf13Ba35105B0633B74E91 | 0xb259515748c75A7216a4849e67cEB166b0DAa98b |       |
 
 #### fxUSD, beta = 0
 
@@ -141,6 +142,21 @@ Community Multisig:
 | RebalancePool.weETH   | 0xc2DeF1E39FF35367F2F2a312a793477C576fD4c3 |       |
 | RebalancePool.xeETH   | 0x7EB0ed173480299e1310d55E04Ece401c2B06626 |       |
 | LeveragedTokenWrapper | 0xA9414Ee8b2b2563E70174972FAa2E8B5197Feb5D |       |
+
+##### fezETH & xezETH
+
+| Name                  |                  Address                   | Notes |
+| --------------------- | :----------------------------------------: | ----- |
+| Treasury              | 0x38965311507D4E54973F81475a149c09376e241e |       |
+| Market                | 0x69518D1D70AD537C41401303BDf96032338E40dE |       |
+| feETH                 | 0x50B4DC15b34E31671c9cA40F9eb05D7eBd6b13f9 |       |
+| xeETH                 | 0x2e5A5AF7eE900D34BCFB70C47023bf1d6bE35CF5 |       |
+| FxInitialFund         | 0x7612bCAbd3D66c71fF740472e063be6a74f126D1 |       |
+| RebalancePoolRegistry | 0x5e3ca2A5736fb093328e4CA19A9A1966025f3905 |       |
+| RebalancePoolSplitter | 0x2755EEbf220BFD31B83Fd9244B6D061bCa225311 |       |
+| RebalancePool.weETH   | 0xf58c499417e36714e99803Cb135f507a95ae7169 |       |
+| RebalancePool.xeETH   | 0xBa947cba270D30967369Bf1f73884Be2533d7bDB |       |
+| LeveragedTokenWrapper | 0xBeb4289491EBFE8452CfAc8830a6285E42A4742b |       |
 
 #### f(x) on stETH, beta = 0.1
 
