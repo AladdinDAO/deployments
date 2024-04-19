@@ -52,13 +52,16 @@ Community Multisig:
 
 #### Price Oracle
 
-| Name                        |                  Address                   | Notes      |
-| --------------------------- | :----------------------------------------: | ---------- |
-| ChainlinkTwapOracleV3 ETH   | 0x460B3CdE57DfbA90DBed02fd83d3990a92DA1230 | 30min twap |
-| ChainlinkTwapOracleV3 stETH | 0xD24AC180e6769Fd5F624e7605B93084171074A77 | 30min twap |
-| FxStETHTwapOracle           | 0xa84360896cE9152d1780c546305BB54125F962d9 | 30min twap |
-| FxFrxETHTwapOracle          | 0x939c38921c961DecB3cc16f601C32d07C41cd25C | 30min twap |
-| FxEETHTwapOracle            | 0x834E87262A00b0aC38eD49Cb1110838866bE4a20 | 30min twap |
+| Name                            |                  Address                   | Notes      |
+| ------------------------------- | :----------------------------------------: | ---------- |
+| ChainlinkTwapOracleV3 ETH/USD   | 0x460B3CdE57DfbA90DBed02fd83d3990a92DA1230 | 30min twap |
+| ChainlinkTwapOracleV3 stETH/USD | 0xD24AC180e6769Fd5F624e7605B93084171074A77 | 30min twap |
+| FxChainlinkTwapOracle BTC/USD   | 0x82012139b29BC5Ac2ff4066832c836122bC6c690 | 30min twap |
+| FxChainlinkTwapOracle WBTC/BTC  | 0xe3202d6029320b6592B439bD67b7E2C154441413 | 30min twap |
+| FxStETHTwapOracle               | 0xa84360896cE9152d1780c546305BB54125F962d9 | 30min twap |
+| FxFrxETHTwapOracle              | 0x939c38921c961DecB3cc16f601C32d07C41cd25C | 30min twap |
+| FxEETHTwapOracle                | 0x834E87262A00b0aC38eD49Cb1110838866bE4a20 | 30min twap |
+| FxWBTCTwapOracle                | 0x7e94c07C6C3b2C931E9517529F56553770a7C0D2 | 30min twap |
 
 #### Liquidity Gauge
 
@@ -77,6 +80,9 @@ Community Multisig:
 | ULTRA+fxUSD  | 0xf33ab11e5c4e55dacb13644f0c0a9d1e199a796f | 0x0d3e9A29E856CF00d670368a7ab0512cb0c29FAC | dual farm |
 | fxUSD+rUSD   | 0x2116bfad62b383043230501f6a124c6ea60ccfa5 | 0x697DDb8e742047561C8e4bB69d2DDB1b8Bb42b60 | dual farm |
 | alUSD+fxUSD  | 0x27cb9629ae3ee05cb266b99ca4124ec999303c9d | 0x9c7003bC16F2A1AA47451C858FEe6480B755363e | dual farm |
+| eUSD+fxUSD   | 0x16b54e3aC8e3ba088333985035b869847e36E770 | 0x5801Bb8f568979C722176Df36b1a74654A9C52b5 |           |
+| rgUSD+fxUSD  | 0x6fC7eA6CA8Cd2759803eb78159C931a8FF5E0557 | 0x4CA79F4FE25BCD329445CDBE7E065427ACa98380 |           |
+| MIM+fxUSD    | 0xD7Bf9bb6Bd088317Effd116E2B70ea3A054cBceb | 0xDF7fbDBAE50C7931a11765FAEd9fe1A002605B55 |           |
 
 #### Rebalance Pool Gauge
 
@@ -87,6 +93,7 @@ Community Multisig:
 | ffrxETH | 0xB3886b8c94C8635B786b1CA88942337669BB1e1E | 0x4ae3BE52c411CC08434d28645FD391497C69c815 |       |
 | feETH   | 0xf594bDfafE4197144C6459FcA611d7B868d36bEa | 0x835191186745e63f9e325E741B273ff925174d7e |       |
 | fezETH  | 0xb2E43ECecA7c110c74Cf13Ba35105B0633B74E91 | 0xb259515748c75A7216a4849e67cEB166b0DAa98b |       |
+| fWBTC   | 0x4E6A1dC233f264dd07b63E206Fc451d986bA9908 | 0x93670efe073e0d75BE16445779a8399E6b418004 |       |
 
 #### fxUSD, beta = 0
 
@@ -156,9 +163,29 @@ Community Multisig:
 | FxInitialFund         | 0x7612bCAbd3D66c71fF740472e063be6a74f126D1 |       |
 | RebalancePoolRegistry | 0x5e3ca2A5736fb093328e4CA19A9A1966025f3905 |       |
 | RebalancePoolSplitter | 0x2755EEbf220BFD31B83Fd9244B6D061bCa225311 |       |
-| RebalancePool.wezETH  | 0xf58c499417e36714e99803Cb135f507a95ae7169 |       |
+| RebalancePool.ezETH   | 0xf58c499417e36714e99803Cb135f507a95ae7169 |       |
 | RebalancePool.xezETH  | 0xBa947cba270D30967369Bf1f73884Be2533d7bDB |       |
 | LeveragedTokenWrapper | 0xBeb4289491EBFE8452CfAc8830a6285E42A4742b |       |
+
+#### btcUSD, beta = 0
+
+- btcUSD: 0x9D11ab23d33aD026C466CE3c124928fDb69Ba20E
+- FxUSDRebalancer: 0x78c3aF23A4DeA2F630C130d2E42717587584BF05
+
+##### fWBTC & xWBTC
+
+| Name                  |                  Address                   | Notes |
+| --------------------- | :----------------------------------------: | ----- |
+| Treasury              | 0x63Fe55B3fe3f74B42840788cFbe6229869590f83 |       |
+| Market                | 0x56B85438F1E16a91eAc5Fe2DAAb2C3Dd57690175 |       |
+| fWBTC                 | 0x576b4779727F5998577bb4e25bf726abE742b9F7 |       |
+| xWBTC                 | 0x9f23562ec47249761222EF7Ac02b327a8C45Ba7D |       |
+| FxInitialFund         | 0x29eE4B752fE14B0BC1F279DCA98415f2Fa6F3A8d |       |
+| RebalancePoolRegistry | 0x163283D59FE2A579f2920A7F8eA19F7799B32fA0 |       |
+| RebalancePoolSplitter | 0x054fAC7aA44F85A59FD41c33006336EC8b03E916 |       |
+| RebalancePool.WBTC    | 0xf291EC9C2F87A41386fd94eC4BCdC3270eD04482 |       |
+| RebalancePool.xWBTC   | 0xBB549046497364A1E26F94f7e93685Dc29FAd8c0 |       |
+| LeveragedTokenWrapper | 0x1A17Ccf198E03858227c27205f15a4b388235DB7 |       |
 
 #### f(x) on stETH, beta = 0.1
 
