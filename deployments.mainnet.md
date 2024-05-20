@@ -71,6 +71,7 @@ Community Multisig:
 | FxFrxETHOracleV2                | 0xffe563c168C01e05DA4f3d81938AF158466ad793 | 30min twap |
 | FxEETHOracleV2                  | 0xE1B11bb0B6d1b321EEb7e0298A3f9EB92171693B | 30min twap |
 | FxEzETHOracleV2                 | 0x564a464c9C357de593Fa48EfD784048a9e366523 | 30min twap |
+| FxWBTCOracleV2                  | 0x4f8330946669d71014efdce30ef19a256643fba8 | 30min twap |
 
 #### Liquidity Gauge
 
