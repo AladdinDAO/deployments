@@ -353,11 +353,18 @@ TBD
 | CvxCompounder      | 0xb0903Ab70a7467eE5756074b31ac88aEBb8fB777 |       |
 | CvxStakingStrategy | 0x837592b44EE5447074b80Cb21bF37a8c5E4c08f8 |       |
 
+#### Concentrator for f(x) protocol
+
+| Name          |                  Address                   | Notes |
+| ------------- | :----------------------------------------: | ----- |
+| arUSD ERC5115 | 0x549716F858aefF9CB845d4C78c67A7599B0Df240 |       |
+| arUSD ERC4626 | 0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a |       |
+
 #### Revenue Sharing
 
 | Name                |                  Address                   |
 | ------------------- | :----------------------------------------: |
-| PlatformFeeSpliter  | 0x32366846354db5c08e92b4ab0d2a510b2a2380c8 |
+| PlatformFeeSplitter | 0x32366846354db5c08e92b4ab0d2a510b2a2380c8 |
 | aCRV FeeDistributor | 0xA5D9358c60fC9Bd2b508eDa17c78C67A43A4458C |
 
 | Token Burner               |                  Address                   |   Note    |
@@ -453,14 +460,18 @@ TBD
 
 ### Token Converter
 
-| Name                  |                  Address                   | Version |
-| --------------------- | :----------------------------------------: | :-----: |
-| ConverterRegistry     | 0xa617206663343b6353acF27566586eE9b53DFb2b |   v1    |
-| GeneralTokenConverter | 0xa3F4fB87e19B60622bEA119C4469c0Df2c7c4739 |   v1    |
-| LidoConverter         | 0x6F862115282037d60C7C185933664178cB3108C7 |   v1    |
-| ConverterRegistry     | 0x997B6F43c1c1e8630d03B8E3C11B60E98A1beA90 |   v2    |
-| GeneralTokenConverter | 0x11C907b3aeDbD863e551c37f21DD3F36b28A6784 |   v2    |
-| LidoConverter         | 0xFFD43edCcec1c27091cB2Aef57b313037E135987 |   v2    |
+| Name                  |                  Address                   |    Version     |
+| --------------------- | :----------------------------------------: | :------------: |
+| ConverterRegistry     | 0xa617206663343b6353acF27566586eE9b53DFb2b | v1, deprecated |
+| GeneralTokenConverter | 0xa3F4fB87e19B60622bEA119C4469c0Df2c7c4739 | v1, deprecated |
+| LidoConverter         | 0x6F862115282037d60C7C185933664178cB3108C7 | v1, deprecated |
+| ConverterRegistry     | 0x997B6F43c1c1e8630d03B8E3C11B60E98A1beA90 |       v2       |
+| GeneralTokenConverter | 0x11C907b3aeDbD863e551c37f21DD3F36b28A6784 |       v2       |
+| UniswapV3Converter    | 0xfeEcE010d3a5dC93e395adD89d13c9aDcA872F13 |       v2       |
+| LidoConverter         | 0xFFD43edCcec1c27091cB2Aef57b313037E135987 |       v2       |
+| CurveNGConverter      | 0xDe3eaf9794B9556004bb57239355ED409EFbc477 |       v2       |
+| ETHLSDConverter       | 0x150F62ec3A9d9aE30b7da4d413aF73d8adC15C9f |       v2       |
+| MultiPathConverter    | 0xCa1D3F8f770Fd50b8cF76551ec54012C26036c2A |       v2       |
 
 ### Gateways
 
