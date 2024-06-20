@@ -275,6 +275,15 @@ Community Multisig:
 | Optimistic | 0xC752C6DaA143e1a0ba3E7Df06f3117182432b991 |
 | Polygon    | 0xC752C6DaA143e1a0ba3E7Df06f3117182432b991 |
 
+##### arUSD (4626)
+
+- Ethereum ProxyOFT: 0xeC4840cD835A1f31E7f77def10Aa7f6bE802E539
+
+| Chain    | Token Address                              |
+| -------- | ------------------------------------------ |
+| Ethereum | 0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a |
+| Blast    | 0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763 |
+
 ### Concentrator
 
 | Name                   |                  Address                   |
