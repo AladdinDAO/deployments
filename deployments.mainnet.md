@@ -229,7 +229,7 @@ Community Multisig:
 
 | Name                  |                  Address                   | Notes      |
 | --------------------- | :----------------------------------------: | ---------- |
-| PlatformFeeSpliter    | 0x0084C2e1B1823564e597Ff4848a88D61ac63D703 |            |
+| PlatformFeeSplitter   | 0x0084C2e1B1823564e597Ff4848a88D61ac63D703 |            |
 | FeeDistributor stETH  | 0x851AAEA3A2757D457E1Ce88C3808C1690213e432 | deprecated |
 | FeeDistributor wstETH | 0xd116513EEa4Efe3908212AfBAeFC76cb29245681 |            |
 
@@ -283,6 +283,7 @@ Community Multisig:
 | -------- | ------------------------------------------ |
 | Ethereum | 0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a |
 | Blast    | 0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763 |
+| Linea    | 0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763 |
 
 ### Concentrator
 
