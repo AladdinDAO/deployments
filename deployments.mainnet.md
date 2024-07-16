@@ -61,17 +61,19 @@ Community Multisig:
 | FxChainlinkTwapOracle ezETH/ETH | 0x376669aFa692A2c6961813C854c78542A3488f55 | 30min twap |
 | FxChainlinkTwapOracle BTC/USD   | 0x82012139b29BC5Ac2ff4066832c836122bC6c690 | 30min twap |
 | FxChainlinkTwapOracle WBTC/BTC  | 0xe3202d6029320b6592B439bD67b7E2C154441413 | 30min twap |
+| FxChainlinkTwapOracle CVX/USD   | 0x1964Dc4ee572631c6947096736238716b15Ce0EE | 30min twap |
 | FxStETHTwapOracle               | 0xa84360896cE9152d1780c546305BB54125F962d9 | 30min twap |
 | FxFrxETHTwapOracle              | 0x939c38921c961DecB3cc16f601C32d07C41cd25C | deprecated |
 | FxEETHTwapOracle                | 0x834E87262A00b0aC38eD49Cb1110838866bE4a20 | deprecated |
 | FxEzETHTwapOracle               | 0x51Ef9FD457b9607911fB6cB72B9E47ffd5f053a6 | deprecated |
-| FxWBTCTwapOracle                | 0x7e94c07C6C3b2C931E9517529F56553770a7C0D2 | 30min twap |
+| FxWBTCTwapOracle                | 0x7e94c07C6C3b2C931E9517529F56553770a7C0D2 | deprecated |
 | SpotPriceOracle                 | 0xc2312CaF0De62eC9b4ADC785C79851Cb989C9abc |            |
 | FxStETHOracleV2                 | 0x83bDc459Ac3887B2A61aA47DCA3Acac26a333D20 | 30min twap |
 | FxFrxETHOracleV2                | 0xffe563c168C01e05DA4f3d81938AF158466ad793 | 30min twap |
 | FxEETHOracleV2                  | 0xE1B11bb0B6d1b321EEb7e0298A3f9EB92171693B | 30min twap |
 | FxEzETHOracleV2                 | 0x564a464c9C357de593Fa48EfD784048a9e366523 | 30min twap |
 | FxWBTCOracleV2                  | 0x4f8330946669d71014efdce30ef19a256643fba8 | 30min twap |
+| FxCVXOracle                     | 0x7267277682FFC281B00B0Ec56D8de22e8Ae88E13 | 30min twap |
 
 #### Liquidity Gauge
 
@@ -107,6 +109,7 @@ Community Multisig:
 | feETH   | 0xf594bDfafE4197144C6459FcA611d7B868d36bEa | 0x835191186745e63f9e325E741B273ff925174d7e |       |
 | fezETH  | 0xb2E43ECecA7c110c74Cf13Ba35105B0633B74E91 | 0xb259515748c75A7216a4849e67cEB166b0DAa98b |       |
 | fWBTC   | 0x4E6A1dC233f264dd07b63E206Fc451d986bA9908 | 0x93670efe073e0d75BE16445779a8399E6b418004 |       |
+| fCVX    | 0xb5152D159fce50a7576eBa7FAb61C2B98F0Ed692 | 0x05c630E9FC8A064f0e8E6fBB9e2B5D2215Da5653 |       |
 
 #### fxUSD, beta = 0
 
@@ -170,10 +173,10 @@ Community Multisig:
 | Name                               |                  Address                   | Notes |
 | ---------------------------------- | :----------------------------------------: | ----- |
 | Treasury                           | 0x38965311507D4E54973F81475a149c09376e241e |       |
-| BalancerV2CachedRateProvider ezETH | 0xE3fF08070aB3aD7eeE7a1cab35105F27DF8EfF10 |
 | Market                             | 0x69518D1D70AD537C41401303BDf96032338E40dE |       |
 | fezETH                             | 0x50B4DC15b34E31671c9cA40F9eb05D7eBd6b13f9 |       |
 | xezETH                             | 0x2e5A5AF7eE900D34BCFB70C47023bf1d6bE35CF5 |       |
+| BalancerV2CachedRateProvider ezETH | 0xE3fF08070aB3aD7eeE7a1cab35105F27DF8EfF10 |       |
 | FxInitialFund                      | 0x7612bCAbd3D66c71fF740472e063be6a74f126D1 |       |
 | RebalancePoolRegistry              | 0x5e3ca2A5736fb093328e4CA19A9A1966025f3905 |       |
 | RebalancePoolSplitter              | 0x2755EEbf220BFD31B83Fd9244B6D061bCa225311 |       |
@@ -200,6 +203,27 @@ Community Multisig:
 | RebalancePool.WBTC    | 0xf291EC9C2F87A41386fd94eC4BCdC3270eD04482 |       |
 | RebalancePool.xWBTC   | 0xBB549046497364A1E26F94f7e93685Dc29FAd8c0 |       |
 | LeveragedTokenWrapper | 0x1A17Ccf198E03858227c27205f15a4b388235DB7 |       |
+
+#### cvxUSD, beta = 0
+
+- cvxUSD: 0x9f0D5E33617A1Db6f1CBd5580834422684f09269
+- FxUSDRebalancer: 0x78c3aF23A4DeA2F630C130d2E42717587584BF05
+
+##### fCVX & xCVX
+
+| Name                     |                  Address                   | Notes |
+| ------------------------ | :----------------------------------------: | ----- |
+| Treasury                 | 0xdFac83173A96b06C5D6176638124d028269cfCd2 |       |
+| Market                   | 0x8e3815Ef103B8d8528778969cD53baa2E94bE25e |       |
+| fCVX                     | 0x9Fcb2c47DaB11e38fec4b8c886F63741bfED4c41 |       |
+| xCVX                     | 0xB90D347e10a085B591955Cbd0603aC7866fCADC8 |       |
+| ERC4626RateProvider aCVX | 0x6Eb03222179F83126735D7E9FdE94571D716D399 |       |
+| FxInitialFund            | 0x05abFAD11c275F91Cc79f6ec507CB273e9f59dE7 |       |
+| RebalancePoolRegistry    | 0x63B038A7298FbDCf0945068637Ec59B8A5E9C6Bd |       |
+| RebalancePoolSplitter    | 0xce5A14C662f00C614aA467b82c654548540F2fcA |       |
+| RebalancePool.aCVX       | 0x0AB9Dc99a33Cd02A776a9117f211803Fb69Fd7C4 |       |
+| RebalancePool.xCVX       | 0xA04d761adad1029e4f2F60ac973a76c5307EfceA |       |
+| LeveragedTokenWrapper    | 0x08A602616593b79591cFC88A130c8825a0fcbd94 |       |
 
 #### f(x) on stETH, beta = 0.1
 
