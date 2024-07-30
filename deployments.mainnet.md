@@ -366,7 +366,8 @@ TBD
 | ----------------------------- | :----------------------------------------: | ---------- |
 | StakeDAOLockerProxy           | 0x1c0D72a330F2768dAF718DEf8A19BAb019EEAd09 |            |
 | VeSDTDelegation               | 0x6037Bb1BBa598bf88D816cAD90A28cC00fE3ff64 |            |
-| AladdinSdCRV                  | 0x43E54C2E7b3e294De3A155785F52AB49d87B9922 |            |
+| StakeDAOBribeClaimer          |                    TBD                     |            |
+| SdCrvCompounder               | 0x43E54C2E7b3e294De3A155785F52AB49d87B9922 |            |
 | ConcentratorVaultForAsdCRV    | 0x59866EC5650e9BA00c51f6D681762b48b0AdA3de |            |
 | StakeDAOCRVVault              | 0x2b3e72f568F96d7209E20C8B8f4F2A363ee1E3F6 | deprecated |
 | SdCRVBribeBurner              | 0x9D6Dc3dbC7Cc5e1d7241601473FD63d2bD1573f9 | deprecated |
@@ -374,6 +375,14 @@ TBD
 | SdCRVBribeBurnerV2            | 0x680f26dbc8Fa2B463607ebb49A68A69c33476665 |            |
 
 [List of asdCRV vaults](./pools.concentrator.asdCRV.md)
+
+#### Concentrator for sdPENDLE
+
+| Name                  | Address | Notes |
+| --------------------- | :-----: | ----- |
+| SdPendleCompounder    |   TBD   |       |
+| SdPendleGaugeStrategy |   TBD   |       |
+| SdPendleBribeBurner   |   TBD   |       |
 
 #### Concentrator for CLever CVX
 
@@ -396,6 +405,13 @@ TBD
 | ------------- | :----------------------------------------: | ----- |
 | arUSD ERC5115 | 0x549716F858aefF9CB845d4C78c67A7599B0Df240 |       |
 | arUSD ERC4626 | 0x07D1718fF05a8C53C8F05aDAEd57C0d672945f9a |       |
+
+#### Concentrator for cvxFXN
+
+| Name                  |                  Address                   | Notes |
+| --------------------- | :----------------------------------------: | ----- |
+| CvxFxnCompounder      | 0x00Bac667a4cCf9089aB1Db978238C555C4349545 |       |
+| CvxFxnStakingStrategy | 0x2d8B895773B093055919e16d537e3A2295D5eF6c |       |
 
 #### Revenue Sharing
 
