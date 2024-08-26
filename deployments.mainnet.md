@@ -204,6 +204,12 @@ Community Multisig:
 | RebalancePool.xWBTC   | 0xBB549046497364A1E26F94f7e93685Dc29FAd8c0 |       |
 | LeveragedTokenWrapper | 0x1A17Ccf198E03858227c27205f15a4b388235DB7 |       |
 
+##### funiBTC & xuniBTC
+
+| Name                  |                  Address                   | Notes |
+| --------------------- | :----------------------------------------: | ----- |
+| FxInitialFund         | 0x1D20671A21112E85b03B00F94Fd760DE0Bef37Ba |       |
+
 #### cvxUSD, beta = 0
 
 - cvxUSD: 0x9f0D5E33617A1Db6f1CBd5580834422684f09269
