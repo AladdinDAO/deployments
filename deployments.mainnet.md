@@ -23,7 +23,11 @@ Community Multisig:
 
 ## V3 Contracts
 
-### f(x) protocol
+### f(x) protocol 2.0
+
+Find it in [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/ignition/deployments/ethereum/deployed_addresses.json).
+
+### f(x) protocol 1.0
 
 - [Fx.Governance](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/deployments/mainnet/Fx.Governance.json)
 - [Fx.stETH](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/deployments/mainnet/Fx.stETH.json)
