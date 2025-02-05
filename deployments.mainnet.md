@@ -38,6 +38,8 @@ Find it in [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/
 | --------------------- | :----------------------------------------: | ----- |
 | TokenSale Round1      | 0x3eB6Da2d3f39BA184AEA23876026E0747Fb0E17f |       |
 | TokenSale Round2      | 0x674A745ADb09c3333D655cC63e2d77ACbE6De935 |       |
+| bFXN TokenSale 1      | 0x3E9CDbC08b09579BbC8b5b901d88c27eE60e6498 |       |
+| bFXN TokenSale 2      | 0xBBa4114F182E0b33FFBeB538A680639516b647ab |       |
 | FXN                   | 0x365AccFCa291e7D3914637ABf1F7635dB165Bb09 |       |
 | veFXN                 | 0xEC6B8A3F3605B083F7044C0F31f2cac0caf1d469 |       |
 | VotingEscrowHelper    | 0xd766f2b87DE4b08c2239580366e49710180aba02 |       |
