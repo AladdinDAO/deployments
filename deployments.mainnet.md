@@ -25,7 +25,7 @@ Community Multisig:
 
 ### f(x) protocol 2.0
 
-Find it in [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/ignition/deployments/ethereum/deployed_addresses.json).
+Find it in [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/ignition/deployments/ethereum/deployed_addresses.json), [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/ignition/deployments/upgrade-20250107/deployed_addresses.json) and [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/ignition/deployments/upgrade-20250318/deployed_addresses.json).
 
 ### f(x) protocol 1.0
 
