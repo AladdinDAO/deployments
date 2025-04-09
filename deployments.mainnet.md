@@ -380,7 +380,7 @@ TBD
 | ----------------------------- | :----------------------------------------: | ---------- |
 | StakeDAOLockerProxy           | 0x1c0D72a330F2768dAF718DEf8A19BAb019EEAd09 |            |
 | VeSDTDelegation               | 0x6037Bb1BBa598bf88D816cAD90A28cC00fE3ff64 |            |
-| StakeDAOBribeClaimer          |                    TBD                     |            |
+| StakeDAOBribeClaimer          | 0xEb7874754362386CA438E70447A60A626bCaaD3c |            |
 | SdCrvCompounder               | 0x43E54C2E7b3e294De3A155785F52AB49d87B9922 |            |
 | ConcentratorVaultForAsdCRV    | 0x59866EC5650e9BA00c51f6D681762b48b0AdA3de |            |
 | StakeDAOCRVVault              | 0x2b3e72f568F96d7209E20C8B8f4F2A363ee1E3F6 | deprecated |
