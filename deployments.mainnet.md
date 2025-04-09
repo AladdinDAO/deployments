@@ -394,9 +394,9 @@ TBD
 
 | Name                  | Address | Notes |
 | --------------------- | :-----: | ----- |
-| SdPendleCompounder    |   TBD   |       |
-| SdPendleGaugeStrategy |   TBD   |       |
-| SdPendleBribeBurner   |   TBD   |       |
+| SdPendleCompounder    |   0x606462126E4Bd5c4D153Fe09967e4C46C9c7FeCf   |       |
+| SdPendleGaugeStrategy |   0x94992Da38bE9aDADD359c2959588FdDFa2dFE5Cd   |       |
+| SdPendleBribeBurner   |   0x8bde1d771423B8d2FE0B046b934FB9a7F956aDe2   |       |
 
 #### Concentrator for CLever CVX
 
