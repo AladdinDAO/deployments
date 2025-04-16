@@ -18,7 +18,7 @@ Community Multisig:
 | Guo Yu        | [0x74390470F4001Ca85D93bD546A4Ab1724359654B](https://etherscan.io/address/0x74390470F4001Ca85D93bD546A4Ab1724359654B) |
 | Jamie         | [0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03](https://etherscan.io/address/0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03) |
 | Martin Krung  | [0x8EcAB7B8ed8215cA52500cbf1548B9239173ef82](https://etherscan.io/address/0x8EcAB7B8ed8215cA52500cbf1548B9239173ef82) |
-| Sharlyn Wu    | [0xF483De0f306952FA56ef56c1dbBDd2A70737bDd5](https://etherscan.io/address/0xF483De0f306952FA56ef56c1dbBDd2A70737bDd5) |
+| Sharlyn Wu    | [0x85DB62FdFA9Ee6050f8b422F74D75D2069dA102B](https://etherscan.io/address/0x85DB62FdFA9Ee6050f8b422F74D75D2069dA102B) |
 | vfat          | [0xef0ca09fbf9a5f61e657fb208b46b8685c1d4766](https://etherscan.io/address/0xef0ca09fbf9a5f61e657fb208b46b8685c1d4766) |
 
 ## V3 Contracts
