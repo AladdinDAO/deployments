@@ -25,7 +25,7 @@ Community Multisig:
 
 ### f(x) protocol 2.0
 
-Find it in [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/ignition/deployments/ethereum/deployed_addresses.json), [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/ignition/deployments/upgrade-20250107/deployed_addresses.json) and [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/ignition/deployments/upgrade-20250318/deployed_addresses.json).
+find it [here](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/deployments/mainnet) and [here](https://github.com/AladdinDAO/fx-protocol-contracts/tree/main/ignition/deployments)
 
 ### f(x) protocol 1.0
 
@@ -34,90 +34,19 @@ Find it in [here](https://github.com/AladdinDAO/fx-protocol-contracts/blob/main/
 
 #### Governance
 
-| Name                  |                  Address                   | Notes |
-| --------------------- | :----------------------------------------: | ----- |
-| TokenSale Round1      | 0x3eB6Da2d3f39BA184AEA23876026E0747Fb0E17f |       |
-| TokenSale Round2      | 0x674A745ADb09c3333D655cC63e2d77ACbE6De935 |       |
-| bFXN TokenSale 1      | 0x3E9CDbC08b09579BbC8b5b901d88c27eE60e6498 |       |
-| bFXN TokenSale 2      | 0xBBa4114F182E0b33FFBeB538A680639516b647ab |       |
-| FXN                   | 0x365AccFCa291e7D3914637ABf1F7635dB165Bb09 |       |
-| veFXN                 | 0xEC6B8A3F3605B083F7044C0F31f2cac0caf1d469 |       |
-| VotingEscrowHelper    | 0xd766f2b87DE4b08c2239580366e49710180aba02 |       |
-| VotingEscrowBoost     | 0x8Cc02c0D9592976635E98e6446ef4976567E7A81 |       |
-| VotingEscrowProxy     | 0x1145f304d74f3295Fa38b82e7BB8704B0E187FA1 |       |
-| TokenMinter           | 0xC8b194925D55d5dE9555AD1db74c149329F71DeF |       |
-| GaugeController       | 0xe60eB8098B34eD775ac44B1ddE864e098C6d7f37 |       |
-| GaugeControllerOwner  | 0x1Ca7b82c4265835C7841cf29407217D820a7DADb |       |
-| SmartWalletWhitelist  | 0xD71B8B76015F296E53D41e8288a8a13eAfFff2ea |       |
-| Vesting FXN           | 0x2290eeFEa24A6E43b26C27187742bD1FEDC10BDB |       |
-| ManageableVesting FXN | 0x0E4f31a2f48418c90F5e9fa84Bf761D832C54ceD |       |
-| CvxFxnVestingManager  | 0x43fCFe9F128b5e4271c7E25C47eFe91bA8896220 |       |
-| SdFxnVestingManager   | 0xA2FaffE31153e5E60F2352e3ed28ff973309C156 |       |
-| MultipleVestHelper    | 0x267b7A1d56d624293Ba1819f30B5bf0F12A524E4 |       |
-| ReservePoolV2         | 0xb592E01dd77084b36430ffCB9c9D2F76fDE32631 |       |
+find it [here](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/deployments/mainnet/Fx.Governance.json) and [here](https://github.com/AladdinDAO/fx-protocol-contracts/tree/main/ignition/deployments)
 
 #### Price Oracle
 
-| Name                            |                  Address                   | Notes      |
-| ------------------------------- | :----------------------------------------: | ---------- |
-| ChainlinkTwapOracleV3 ETH/USD   | 0x460B3CdE57DfbA90DBed02fd83d3990a92DA1230 | 30min twap |
-| ChainlinkTwapOracleV3 stETH/USD | 0xD24AC180e6769Fd5F624e7605B93084171074A77 | 30min twap |
-| FxChainlinkTwapOracle ETH/USD   | 0x2EB56aA6A6E48b142287f723E547c687281580bD | 30min twap |
-| FxChainlinkTwapOracle weETH/ETH | 0x56bC0Ec4049f25E7dd455B64d1c6318c1D9Ce789 | 30min twap |
-| FxChainlinkTwapOracle ezETH/ETH | 0x376669aFa692A2c6961813C854c78542A3488f55 | 30min twap |
-| FxChainlinkTwapOracle BTC/USD   | 0x82012139b29BC5Ac2ff4066832c836122bC6c690 | 30min twap |
-| FxChainlinkTwapOracle WBTC/BTC  | 0xe3202d6029320b6592B439bD67b7E2C154441413 | 30min twap |
-| FxChainlinkTwapOracle CVX/USD   | 0x1964Dc4ee572631c6947096736238716b15Ce0EE | 30min twap |
-| FxStETHTwapOracle               | 0xa84360896cE9152d1780c546305BB54125F962d9 | 30min twap |
-| FxFrxETHTwapOracle              | 0x939c38921c961DecB3cc16f601C32d07C41cd25C | deprecated |
-| FxEETHTwapOracle                | 0x834E87262A00b0aC38eD49Cb1110838866bE4a20 | deprecated |
-| FxEzETHTwapOracle               | 0x51Ef9FD457b9607911fB6cB72B9E47ffd5f053a6 | deprecated |
-| FxWBTCTwapOracle                | 0x7e94c07C6C3b2C931E9517529F56553770a7C0D2 | deprecated |
-| SpotPriceOracle                 | 0xc2312CaF0De62eC9b4ADC785C79851Cb989C9abc |            |
-| FxStETHOracleV2                 | 0x83bDc459Ac3887B2A61aA47DCA3Acac26a333D20 | 30min twap |
-| FxFrxETHOracleV2                | 0xffe563c168C01e05DA4f3d81938AF158466ad793 | 30min twap |
-| FxEETHOracleV2                  | 0xE1B11bb0B6d1b321EEb7e0298A3f9EB92171693B | 30min twap |
-| FxEzETHOracleV2                 | 0x564a464c9C357de593Fa48EfD784048a9e366523 | 30min twap |
-| FxWBTCOracleV2                  | 0x4f8330946669d71014efdce30ef19a256643fba8 | 30min twap |
-| FxCVXOracle                     | 0x7267277682FFC281B00B0Ec56D8de22e8Ae88E13 | 30min twap |
+find it [here](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/deployments/mainnet) and [here](https://github.com/AladdinDAO/fx-protocol-contracts/tree/main/ignition/deployments)
 
 #### Liquidity Gauge
 
-| Name         |                 LP Address                 |               Gauge Address                |   Notes   |
-| ------------ | :----------------------------------------: | :----------------------------------------: | :-------: |
-| ETH+FXN      | 0xE06A65e09Ae18096B99770A809BA175FA05960e2 | 0xA5250C540914E012E22e623275E290c4dC993D11 | dual farm |
-| FXN+cvxFXN   | 0x1062FD8eD633c1f080754c19317cb3912810B5e5 | 0xfEFafB9446d84A9e58a3A2f2DDDd7219E8c94FbB | dual farm |
-| FXN+sdFXN    | 0x28Ca243dc0aC075dD012fCf9375C25D18A844d96 | 0x5b1D12365BEc01b8b672eE45912d1bbc86305dba | dual farm |
-| crvUSD+fxUSD | 0x8ffc7b89412efd0d17edea2018f6634ea4c2fcb2 | 0xF4Bd6D66bAFEA1E0500536d52236f64c3e8a2a84 | dual farm |
-| PYUSD+fxUSD  | 0xd6982da59F1D26476E259559508f4135135cf9b8 | 0xeD113B925AC3f972161Be012cdFEE33470040E6a | dual farm |
-| DOLA+fxUSD   | 0x189B4e49B5cAf33565095097b4B960F14032C7D0 | 0x61F32964C39Cca4353144A6DB2F8Efdb3216b35B | dual farm |
-| GRAI+fxUSD   | 0x69Cf42F15F9325986154b61A013da6E8feC82CCF | 0xfa4761512aaf899b010438a10C60D01EBdc0eFcA | dual farm |
-| FRAX+fxUSD   | 0x1EE81c56e42EC34039D993d12410d437DdeA341E | 0x31b630B21065664dDd2dBa0eD3a60D8ff59501F0 | dual farm |
-| GHO+fxUSD    | 0x74345504Eaea3D9408fC69Ae7EB2d14095643c5b | 0xf0A3ECed42Dbd8353569639c0eaa833857aA0A75 | dual farm |
-| mkUSD+fxUSD  | 0xca554e2e2948a211d4650fe0f4e271f01f9cb5f1 | 0xDbA9a415bae1983a945ba078150CAe8b690c9229 | dual farm |
-| ULTRA+fxUSD  | 0xf33ab11e5c4e55dacb13644f0c0a9d1e199a796f | 0x0d3e9A29E856CF00d670368a7ab0512cb0c29FAC | dual farm |
-| fxUSD+rUSD   | 0x2116bfad62b383043230501f6a124c6ea60ccfa5 | 0x697DDb8e742047561C8e4bB69d2DDB1b8Bb42b60 | dual farm |
-| alUSD+fxUSD  | 0x27cb9629ae3ee05cb266b99ca4124ec999303c9d | 0x9c7003bC16F2A1AA47451C858FEe6480B755363e | dual farm |
-| eUSD+fxUSD   | 0x16b54e3aC8e3ba088333985035b869847e36E770 | 0x5801Bb8f568979C722176Df36b1a74654A9C52b5 | dual farm |
-| rgUSD+fxUSD  | 0x6fC7eA6CA8Cd2759803eb78159C931a8FF5E0557 | 0x4CA79F4FE25BCD329445CDBE7E065427ACa98380 | dual farm |
-| MIM+fxUSD    | 0xD7Bf9bb6Bd088317Effd116E2B70ea3A054cBceb | 0xDF7fbDBAE50C7931a11765FAEd9fe1A002605B55 |           |
-| zunUSD+fxUSD | 0x13eA95Ce68185e334d3747539845A3b7643a8cab | 0x9516c367952430371A733E5eBb587E01eE082F99 | dual farm |
-| USDC+fxUSD   | 0x5018BE882DccE5E3F2f3B0913AE2096B9b3fB61f | 0xf1E141C804BA39b4a031fDF46e8c08dBa7a0df60 |           |
-| USD0+fxUSD   | 0x74c204520c9e88aA3EB9d61788ABA11Be1e0193F | 0x0B700C60de435D522081cC5eB12B63875FE7e65a |           |
-| fxUSD+rUSD+btcUSD | 0x52bF165abd26106D810733CC29FAfF68b96DECe8 | 0x7a505e920d5d7E4b402D9Ee345fB7E8Cdc265262 |           |
-| fxUSD+USDN   | 0xB6aF437ceEa0DBeA524115eFC905F0F44fd1eBAF | 0xa295829c082c4d21fe37dbc8c96bfa0ef6dbaa92 |           |
+find it [here](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/deployments/mainnet) and [here](https://github.com/AladdinDAO/fx-protocol-contracts/tree/main/ignition/deployments)
 
 #### Rebalance Pool Gauge
 
-| Name    |               Gauge Address                |              Claimer Address               | Notes |
-| ------- | :----------------------------------------: | :----------------------------------------: | ----- |
-| fETH    | 0x9710ca7f3edd4893f399c89ea184d92cc7172e28 | 0x81243a88Dd9Fb963c643bD3f2194c2cA9CCFc428 |       |
-| fstETH  | 0xf422446F7730e50B9CAb4618343425d9927b35ED | 0xCa0563ab14a87ee64d6b097B0dfC46E9B56820aD |       |
-| ffrxETH | 0xB3886b8c94C8635B786b1CA88942337669BB1e1E | 0x4ae3BE52c411CC08434d28645FD391497C69c815 |       |
-| feETH   | 0xf594bDfafE4197144C6459FcA611d7B868d36bEa | 0x835191186745e63f9e325E741B273ff925174d7e |       |
-| fezETH  | 0xb2E43ECecA7c110c74Cf13Ba35105B0633B74E91 | 0xb259515748c75A7216a4849e67cEB166b0DAa98b |       |
-| fWBTC   | 0x4E6A1dC233f264dd07b63E206Fc451d986bA9908 | 0x93670efe073e0d75BE16445779a8399E6b418004 |       |
-| fCVX    | 0xb5152D159fce50a7576eBa7FAb61C2B98F0Ed692 | 0x05c630E9FC8A064f0e8E6fBB9e2B5D2215Da5653 |       |
+find it [here](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/deployments/mainnet) and [here](https://github.com/AladdinDAO/fx-protocol-contracts/tree/main/ignition/deployments)
 
 #### fxUSD, beta = 0
 
