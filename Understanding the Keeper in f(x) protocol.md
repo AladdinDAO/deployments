@@ -1,8 +1,3 @@
----
-title: Understanding the Keeper in f(x) protocol
-
----
-
 # Understanding the Keeper in f(x) protocol
 
 ## Table of Contents
