@@ -255,6 +255,16 @@ find it [here](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/depl
 | Blast    | 0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763 |
 | Linea    | 0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763 |
 
+##### fxUSD
+
+- Ethereum OFTAdapter: 0xA07d8cc424421cC2bce0544a65481376f010A438
+
+| Chain    | Token Address                              |
+| -------- | ------------------------------------------ |
+| Ethereum | 0x085780639CC2cACd35E474e71f4d000e2405d8f6 |
+| Base     | 0x55380fe7A1910dFf29A47B622057ab4139DA42C5 |
+
+
 ### Concentrator
 
 | Name                   |                  Address                   |
