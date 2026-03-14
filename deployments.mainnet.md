@@ -12,7 +12,7 @@ Community Multisig:
 | Signer        |                                                        Address                                                        |
 | ------------- | :-------------------------------------------------------------------------------------------------------------------: |
 | Diligent Deer | [0xcdF067F306E7a511Ef701588AFCdcff292B19282](https://etherscan.io/address/0xcdF067F306E7a511Ef701588AFCdcff292B19282) |
-| 0xLlama       | [0x7904Ad7c992CDAb500dAa0f3366301b1f5365B62](https://etherscan.io/address/0x7904Ad7c992CDAb500dAa0f3366301b1f5365B62) |
+| Paul          | [0xC8Be49a9b1ca1A1cc654491a7cBbD27aBfA06A81](https://etherscan.io/address/0xC8Be49a9b1ca1A1cc654491a7cBbD27aBfA06A81) |
 | chiaki644     | [0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb](https://etherscan.io/address/0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb) |
 | Gordon        | [0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99](https://etherscan.io/address/0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99) |
 | Guo Yu        | [0x74390470F4001Ca85D93bD546A4Ab1724359654B](https://etherscan.io/address/0x74390470F4001Ca85D93bD546A4Ab1724359654B) |
