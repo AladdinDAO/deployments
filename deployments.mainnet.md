@@ -257,13 +257,17 @@ find it [here](https://github.com/AladdinDAO/aladdin-v3-contracts/blob/main/depl
 
 ##### fxUSD
 
-- Ethereum OFTAdapter: 0xA07d8cc424421cC2bce0544a65481376f010A438
+- Ethereum OFTAdapter for base: `0xA07d8cc424421cC2bce0544a65481376f010A438`
+- Ethereum OFTAdapter for tempo: `0x06013F99661B59e5A5BFD62afEEd6fe7C10bdDE9`
+- Tempo OFTAdapter for TIP-20 fxUSD: `0xd87BbC92431F2908FbBA780cE902f309a171335c`
 
-| Chain    | Token Address                              |
-| -------- | ------------------------------------------ |
-| Ethereum | 0x085780639CC2cACd35E474e71f4d000e2405d8f6 |
-| Base     | 0x55380fe7A1910dFf29A47B622057ab4139DA42C5 |
+| Chain     | Address                                      | Notes                |
+|-----------|----------------------------------------------|----------------------|
+| Ethereum  | `0x085780639CC2cACd35E474e71f4d000e2405d8f6` | ERC-20               |
+| Base      | `0x55380fe7A1910dFf29A47B622057ab4139DA42C5` | OFT                  |
+| Tempo     | `0x20C000000000000000000000850e533bD762B72c` | TIP-20               |
 
+- Note: fxUSD on **Tempo** uses the **TIP-20** token standard.
 
 ### Concentrator
 
