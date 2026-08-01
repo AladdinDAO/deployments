@@ -13,7 +13,7 @@ Community Multisig:
 | ------------- | :-------------------------------------------------------------------------------------------------------------------: |
 | Diligent Deer | [0xcdF067F306E7a511Ef701588AFCdcff292B19282](https://etherscan.io/address/0xcdF067F306E7a511Ef701588AFCdcff292B19282) |
 | Paul          | [0xC8Be49a9b1ca1A1cc654491a7cBbD27aBfA06A81](https://etherscan.io/address/0xC8Be49a9b1ca1A1cc654491a7cBbD27aBfA06A81) |
-| chiaki644     | [0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb](https://etherscan.io/address/0x4088421cBDBa1501d8Fd09fD241717097Afb42Cb) |
+| Nero          | [0x18411aB626c9b3B3Dd5b7356574D8ff396436744](https://etherscan.io/address/0x18411aB626c9b3B3Dd5b7356574D8ff396436744) |
 | Gordon        | [0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99](https://etherscan.io/address/0x38a93e70b0D8343657f802C1c3Fdb06aC8F8fe99) |
 | Guo Yu        | [0x74390470F4001Ca85D93bD546A4Ab1724359654B](https://etherscan.io/address/0x74390470F4001Ca85D93bD546A4Ab1724359654B) |
 | Jamie         | [0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03](https://etherscan.io/address/0xe3522d85d37F55735e9327CD7a5cDe3abaf28E03) |
