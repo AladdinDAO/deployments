@@ -322,14 +322,15 @@ TBD
 | Name                          |                  Address                   | Notes      |
 | ----------------------------- | :----------------------------------------: | ---------- |
 | StakeDAOLockerProxy           | 0x1c0D72a330F2768dAF718DEf8A19BAb019EEAd09 |            |
-| VeSDTDelegation               | 0x6037Bb1BBa598bf88D816cAD90A28cC00fE3ff64 |            |
+| VeSDTDelegation               | 0x6037Bb1BBa598bf88D816cAD90A28cC00fE3ff64 | deprecated |
 | StakeDAOBribeClaimer          | 0xEb7874754362386CA438E70447A60A626bCaaD3c |            |
 | SdCrvCompounder               | 0x43E54C2E7b3e294De3A155785F52AB49d87B9922 |            |
 | ConcentratorVaultForAsdCRV    | 0x59866EC5650e9BA00c51f6D681762b48b0AdA3de |            |
 | StakeDAOCRVVault              | 0x2b3e72f568F96d7209E20C8B8f4F2A363ee1E3F6 | deprecated |
 | SdCRVBribeBurner              | 0x9D6Dc3dbC7Cc5e1d7241601473FD63d2bD1573f9 | deprecated |
 | ConcentratorSdCrvGaugeWrapper | 0x09B0E3A114135F528F762DB8363b4f5eae3F3bF1 |            |
-| SdCRVBribeBurnerV2            | 0x680f26dbc8Fa2B463607ebb49A68A69c33476665 |            |
+| SdCRVBribeBurnerV2            | 0xC56ec704c18dba3CDE4bf5A5c898E089DDAc5E27 |            |
+| VlSDTDelegation               | 0x322c76e1205dE5ee4146e40644563B482B1CDA43 |            |
 
 [List of asdCRV vaults](./pools.concentrator.asdCRV.md)
 
@@ -338,8 +339,8 @@ TBD
 | Name                  | Address | Notes |
 | --------------------- | :-----: | ----- |
 | SdPendleCompounder    |   0x606462126E4Bd5c4D153Fe09967e4C46C9c7FeCf   |       |
-| SdPendleGaugeStrategy |   0x94992Da38bE9aDADD359c2959588FdDFa2dFE5Cd   |       |
-| SdPendleBribeBurner   |   0x8bde1d771423B8d2FE0B046b934FB9a7F956aDe2   |       |
+| SdPendleGaugeStrategy |   0x6402258efa299F9fE8b50c8A6ce3F6E9f492347a   |       |
+| SdPendleBribeBurner   |   0x15248cC4Ef7EdCB1B651037Db36DA710847A63cb   |       |
 
 #### Concentrator for CLever CVX
 
